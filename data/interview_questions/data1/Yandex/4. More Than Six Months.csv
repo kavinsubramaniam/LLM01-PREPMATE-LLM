@@ -1,0 +1,101 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Longest Subarray of 1's After Deleting One Element,100.0,0.6850411518400977,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element
+EASY,Summary Ranges,97.4,0.5231193241194566,https://leetcode.com/problems/summary-ranges
+MEDIUM,String Compression,91.1,0.5683443469154593,https://leetcode.com/problems/string-compression
+EASY,Move Zeroes,88.1,0.6240681710696376,https://leetcode.com/problems/move-zeroes
+EASY,Valid Palindrome,86.0,0.4971829819428807,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Subarray Sum Equals K,84.7,0.4466502585059286,https://leetcode.com/problems/subarray-sum-equals-k
+MEDIUM,Insert Delete GetRandom O(1),83.7,0.5482806492249092,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Line Reflection,83.7,0.3585277796349536,https://leetcode.com/problems/line-reflection
+EASY,Isomorphic Strings,82.1,0.4619235907132917,https://leetcode.com/problems/isomorphic-strings
+MEDIUM,Longest Substring Without Repeating Characters,82.1,0.36045612973863933,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Permutation in String,81.6,0.46666138282549674,https://leetcode.com/problems/permutation-in-string
+MEDIUM,Group Anagrams,81.0,0.7004730382436981,https://leetcode.com/problems/group-anagrams
+EASY,Valid Parentheses,79.9,0.4160100826567107,https://leetcode.com/problems/valid-parentheses
+EASY,Two Sum,78.0,0.5468043955000069,https://leetcode.com/problems/two-sum
+MEDIUM,Number of Islands,75.9,0.6120953716776739,https://leetcode.com/problems/number-of-islands
+MEDIUM,Merge Intervals,75.9,0.4854564282067129,https://leetcode.com/problems/merge-intervals
+MEDIUM,Validate Binary Search Tree,71.8,0.33809057686957206,https://leetcode.com/problems/validate-binary-search-tree
+EASY,Best Time to Buy and Sell Stock,70.0,0.5457831894389686,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Min Stack,70.0,0.5561976652134646,https://leetcode.com/problems/min-stack
+MEDIUM,Longest Palindromic Substring,68.9,0.3504763880278834,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Generate Parentheses,68.9,0.7621019022775896,https://leetcode.com/problems/generate-parentheses
+MEDIUM,One Edit Distance,68.9,0.34428263925496405,https://leetcode.com/problems/one-edit-distance
+MEDIUM,Interval List Intersections,67.9,0.7232047610168819,https://leetcode.com/problems/interval-list-intersections
+HARD,Trapping Rain Water,66.7,0.639106905555831,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Evaluate Reverse Polish Notation,64.3,0.5362580638586264,https://leetcode.com/problems/evaluate-reverse-polish-notation
+MEDIUM,Design an ATM Machine,64.3,0.4349991413360811,https://leetcode.com/problems/design-an-atm-machine
+MEDIUM,Find All Anagrams in a String,64.3,0.5167447565893072,https://leetcode.com/problems/find-all-anagrams-in-a-string
+EASY,Intersection of Two Arrays II,62.9,0.5881999269808231,https://leetcode.com/problems/intersection-of-two-arrays-ii
+MEDIUM,Design Hit Counter,61.4,0.6894679583484432,https://leetcode.com/problems/design-hit-counter
+EASY,Merge Sorted Array,61.4,0.5190072444372688,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,LRU Cache,61.4,0.44062681329691705,https://leetcode.com/problems/lru-cache
+MEDIUM,Longest Substring with At Most K Distinct Characters,59.8,0.4923737277208133,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+HARD,Minimum Window Substring,58.1,0.4436698489251002,https://leetcode.com/problems/minimum-window-substring
+HARD,Candy,58.1,0.4416808202392255,https://leetcode.com/problems/candy
+MEDIUM,Simplify Path,56.2,0.4587704519129928,https://leetcode.com/problems/simplify-path
+EASY,Destination City,54.1,0.7948855600458904,https://leetcode.com/problems/destination-city
+MEDIUM,Container With Most Water,54.1,0.568524664868704,https://leetcode.com/problems/container-with-most-water
+EASY,Single Number,51.8,0.7497352888758426,https://leetcode.com/problems/single-number
+MEDIUM,Max Consecutive Ones III,51.8,0.6489495906187916,https://leetcode.com/problems/max-consecutive-ones-iii
+MEDIUM,Search in Rotated Sorted Array,51.8,0.42078511916454714,https://leetcode.com/problems/search-in-rotated-sorted-array
+EASY,Find the Difference of Two Arrays,51.8,0.8015581899582158,https://leetcode.com/problems/find-the-difference-of-two-arrays
+EASY,Reverse Linked List,51.8,0.7835420186208515,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Product of Array Except Self,49.2,0.6720156608713082,https://leetcode.com/problems/product-of-array-except-self
+EASY,Merge Two Sorted Lists,49.2,0.6598107924700113,https://leetcode.com/problems/merge-two-sorted-lists
+EASY,Remove Element,49.2,0.5909863860331527,https://leetcode.com/problems/remove-element
+MEDIUM,Max Consecutive Ones II,49.2,0.5087471765240371,https://leetcode.com/problems/max-consecutive-ones-ii
+HARD,Merge k Sorted Lists,49.2,0.5529201523192708,https://leetcode.com/problems/merge-k-sorted-lists
+EASY,Symmetric Tree,49.2,0.5830279913081783,https://leetcode.com/problems/symmetric-tree
+HARD,Reconstruct Itinerary,46.2,0.4338544648166776,https://leetcode.com/problems/reconstruct-itinerary
+MEDIUM,Lowest Common Ancestor of a Binary Tree,46.2,0.6513884603774717,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+HARD,Binary Tree Maximum Path Sum,46.2,0.407471837141939,https://leetcode.com/problems/binary-tree-maximum-path-sum
+EASY,Palindrome Number,46.2,0.5831336170510852,https://leetcode.com/problems/palindrome-number
+MEDIUM,Longest Increasing Subsequence,42.6,0.5693003671209579,https://leetcode.com/problems/longest-increasing-subsequence
+EASY,Valid Anagram,42.6,0.6589723549463018,https://leetcode.com/problems/valid-anagram
+EASY,Is Subsequence,42.6,0.4815797201177393,https://leetcode.com/problems/is-subsequence
+MEDIUM,Continuous Subarray Sum,42.6,0.3062031481102921,https://leetcode.com/problems/continuous-subarray-sum
+EASY,Intersection of Two Arrays,42.6,0.757841687380219,https://leetcode.com/problems/intersection-of-two-arrays
+MEDIUM,Flatten Nested List Iterator,42.6,0.6502404959172892,https://leetcode.com/problems/flatten-nested-list-iterator
+MEDIUM,Add Two Numbers,42.6,0.45044718619492585,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Perfect Squares,42.6,0.5532323343996424,https://leetcode.com/problems/perfect-squares
+HARD,Median of Two Sorted Arrays,42.6,0.424799126532188,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Best Time to Buy and Sell Stock II,38.2,0.6850376518784319,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+EASY,Max Consecutive Ones,38.2,0.614017932086353,https://leetcode.com/problems/max-consecutive-ones
+HARD,Sliding Window Maximum,38.2,0.47115625072155853,https://leetcode.com/problems/sliding-window-maximum
+EASY,Maximum Depth of Binary Tree,38.2,0.7657494124058394,https://leetcode.com/problems/maximum-depth-of-binary-tree
+MEDIUM,Kth Largest Element in an Array,38.2,0.6742750662742438,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Top K Frequent Elements,38.2,0.6385664730425429,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Longest Substring with At Least K Repeating Characters,38.2,0.4530421364639183,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
+EASY,Palindrome Linked List,38.2,0.5483742622298572,https://leetcode.com/problems/palindrome-linked-list
+MEDIUM,Meeting Rooms II,38.2,0.5181631673232779,https://leetcode.com/problems/meeting-rooms-ii
+EASY,Reverse Words in a String III,38.2,0.8347057478724507,https://leetcode.com/problems/reverse-words-in-a-string-iii
+EASY,Contains Duplicate,32.7,0.6263048961052248,https://leetcode.com/problems/contains-duplicate
+EASY,Linked List Cycle,32.7,0.5170561210743472,https://leetcode.com/problems/linked-list-cycle
+MEDIUM,Remove Duplicates from Sorted Array II,32.7,0.6152757118802517,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
+MEDIUM,Insert Interval,32.7,0.4271853801036172,https://leetcode.com/problems/insert-interval
+MEDIUM,Longest Repeating Character Replacement,32.7,0.5608911104904448,https://leetcode.com/problems/longest-repeating-character-replacement
+MEDIUM,3Sum,32.7,0.3609277494276555,https://leetcode.com/problems/3sum
+MEDIUM,Lowest Common Ancestor of a Binary Search Tree,32.7,0.6702143407178336,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+MEDIUM,Two Sum II - Input Array Is Sorted,32.7,0.6262324606827796,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+EASY,Reverse String,32.7,0.7936747415230184,https://leetcode.com/problems/reverse-string
+MEDIUM,Binary Tree Right Side View,32.7,0.6492528636311871,https://leetcode.com/problems/binary-tree-right-side-view
+HARD,Remove Invalid Parentheses,32.7,0.4879638884685633,https://leetcode.com/problems/remove-invalid-parentheses
+EASY,Missing Number,32.7,0.689410698109793,https://leetcode.com/problems/missing-number
+MEDIUM,Find Minimum in Rotated Sorted Array,32.7,0.5190305840645819,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+MEDIUM,Minimum Size Subarray Sum,32.7,0.4846780933499144,https://leetcode.com/problems/minimum-size-subarray-sum
+EASY,Find the Index of the First Occurrence in a String,25.1,0.44190393282190504,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+MEDIUM,Edit Distance,25.1,0.5793852000053117,https://leetcode.com/problems/edit-distance
+MEDIUM,Valid Sudoku,25.1,0.6132870116947868,https://leetcode.com/problems/valid-sudoku
+EASY,Island Perimeter,25.1,0.7323953371705904,https://leetcode.com/problems/island-perimeter
+EASY,Majority Element,25.1,0.6542320935382009,https://leetcode.com/problems/majority-element
+MEDIUM,Non-overlapping Intervals,25.1,0.5469644137948165,https://leetcode.com/problems/non-overlapping-intervals
+EASY,Sum of Left Leaves,25.1,0.6126322621818999,https://leetcode.com/problems/sum-of-left-leaves
+MEDIUM,Search a 2D Matrix,25.1,0.515533761919827,https://leetcode.com/problems/search-a-2d-matrix
+HARD,Maximal Rectangle,25.1,0.5252877301200981,https://leetcode.com/problems/maximal-rectangle
+MEDIUM,Restore IP Addresses,25.1,0.5199272620162904,https://leetcode.com/problems/restore-ip-addresses
+MEDIUM,H-Index,25.1,0.3975855062796485,https://leetcode.com/problems/h-index
+MEDIUM,Longest Consecutive Sequence,25.1,0.4750193742762769,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Sort the Matrix Diagonally,25.1,0.8289795781496261,https://leetcode.com/problems/sort-the-matrix-diagonally
+MEDIUM,Reverse Words in a String,25.1,0.4895985038663753,https://leetcode.com/problems/reverse-words-in-a-string
+EASY,Contains Duplicate II,25.1,0.47620786267472986,https://leetcode.com/problems/contains-duplicate-ii

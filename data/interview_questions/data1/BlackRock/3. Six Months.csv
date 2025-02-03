@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Happy Number,100.0,0.5733831777193996,https://leetcode.com/problems/happy-number
+MEDIUM,Maximum Subtree of the Same Color,85.6,0.6290566037735849,https://leetcode.com/problems/maximum-subtree-of-the-same-color
+HARD,Find the Maximum Sum of Node Values,85.6,0.6579585557868066,https://leetcode.com/problems/find-the-maximum-sum-of-node-values
+EASY,Valid Parentheses,62.3,0.4160117071665343,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Maximum Profit From Trading Stocks,54.4,0.46005856991783944,https://leetcode.com/problems/maximum-profit-from-trading-stocks
+EASY,Best Time to Buy and Sell Stock,54.4,0.5457855060018556,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Group Anagrams,54.4,0.7004739255531776,https://leetcode.com/problems/group-anagrams

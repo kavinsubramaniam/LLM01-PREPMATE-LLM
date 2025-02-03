@@ -1,0 +1,19 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Design Browser History,100.0,0.778405594890416,https://leetcode.com/problems/design-browser-history
+MEDIUM,Reorganize String,89.3,0.5556521539356316,https://leetcode.com/problems/reorganize-string
+MEDIUM,Design Hit Counter,77.1,0.6894679583484432,https://leetcode.com/problems/design-hit-counter
+MEDIUM,Minimum Number of Frogs Croaking,77.1,0.5053256824389976,https://leetcode.com/problems/minimum-number-of-frogs-croaking
+MEDIUM,Merge Intervals,75.3,0.48545621240990416,https://leetcode.com/problems/merge-intervals
+HARD,Split Message Based on Limit,57.9,0.43246884472886493,https://leetcode.com/problems/split-message-based-on-limit
+HARD,Minimum Falling Path Sum II,52.5,0.6417737541029327,https://leetcode.com/problems/minimum-falling-path-sum-ii
+MEDIUM,Remove Colored Pieces if Both Neighbors are the Same Color,44.9,0.6283199233233284,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color
+MEDIUM,Word Search,44.9,0.4430728987402767,https://leetcode.com/problems/word-search
+EASY,Valid Parentheses,44.9,0.41601025915519424,https://leetcode.com/problems/valid-parentheses
+HARD,First Missing Positive,44.9,0.4039164667290061,https://leetcode.com/problems/first-missing-positive
+EASY,Best Time to Buy and Sell Stock,44.9,0.5457834293904071,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Unique Paths,44.9,0.652272553444887,https://leetcode.com/problems/unique-paths
+HARD,Word Search II,44.9,0.3689284541356077,https://leetcode.com/problems/word-search-ii
+MEDIUM,Minimum Absolute Difference Between Elements With Constraint,44.9,0.3459549183285621,https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint
+MEDIUM,Accounts Merge,44.9,0.5860350441345303,https://leetcode.com/problems/accounts-merge
+EASY,Two Sum,44.9,0.54680474781074,https://leetcode.com/problems/two-sum
+MEDIUM,Task Scheduler,44.9,0.6080405305564733,https://leetcode.com/problems/task-scheduler

@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Find the Longest Equal Subarray,100.0,0.3629614515318935,https://leetcode.com/problems/find-the-longest-equal-subarray
+MEDIUM,Longest Substring Without Repeating Characters,83.8,0.3604575562033212,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,String Compression,83.8,0.5683470722864724,https://leetcode.com/problems/string-compression
+HARD,Median of Two Sorted Arrays,71.8,0.4248007290162763,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Group Anagrams,71.8,0.7004738684943241,https://leetcode.com/problems/group-anagrams
+MEDIUM,Maximum Length of a Concatenated String with Unique Characters,71.8,0.5416345866432369,https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters
+MEDIUM,LRU Cache,71.8,0.44062673572691013,https://leetcode.com/problems/lru-cache
+MEDIUM,Min Stack,71.8,0.5561977808662572,https://leetcode.com/problems/min-stack
+EASY,Meeting Rooms,71.8,0.5866021847312209,https://leetcode.com/problems/meeting-rooms
+MEDIUM,Minimum Path Sum,71.8,0.6557742214124108,https://leetcode.com/problems/minimum-path-sum
+MEDIUM,Binary Tree Level Order Traversal,62.4,0.6941512249131858,https://leetcode.com/problems/binary-tree-level-order-traversal
+MEDIUM,Word Break,62.4,0.47690383603737607,https://leetcode.com/problems/word-break
+EASY,Design HashMap,62.4,0.6563030996474261,https://leetcode.com/problems/design-hashmap
+EASY,Two Sum,62.4,0.5468060567197799,https://leetcode.com/problems/two-sum
+EASY,Merge Sorted Array,62.4,0.5190091661925532,https://leetcode.com/problems/merge-sorted-array
+EASY,Merge Two Sorted Lists,62.4,0.6598119769714118,https://leetcode.com/problems/merge-two-sorted-lists

@@ -1,0 +1,101 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Kth Largest Element in an Array,100.0,0.674274293183119,https://leetcode.com/problems/kth-largest-element-in-an-array
+EASY,Valid Word Abbreviation,97.1,0.3652225846087253,https://leetcode.com/problems/valid-word-abbreviation
+EASY,Valid Palindrome II,95.5,0.421745306028752,https://leetcode.com/problems/valid-palindrome-ii
+MEDIUM,Minimum Remove to Make Valid Parentheses,94.6,0.7000688252471784,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
+EASY,Merge Sorted Array,91.9,0.519005309687968,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Binary Tree Vertical Order Traversal,91.9,0.5622575032030022,https://leetcode.com/problems/binary-tree-vertical-order-traversal
+MEDIUM,Random Pick with Weight,87.6,0.4795094652277785,https://leetcode.com/problems/random-pick-with-weight
+MEDIUM,Lowest Common Ancestor of a Binary Tree,86.4,0.6513865846410011,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+MEDIUM,Basic Calculator II,85.1,0.4496688127221596,https://leetcode.com/problems/basic-calculator-ii
+MEDIUM,Simplify Path,83.8,0.45876413222957857,https://leetcode.com/problems/simplify-path
+MEDIUM,Dot Product of Two Sparse Vectors,82.4,0.8988582147484508,https://leetcode.com/problems/dot-product-of-two-sparse-vectors
+MEDIUM,Nested List Weight Sum,80.9,0.8495347883877219,https://leetcode.com/problems/nested-list-weight-sum
+MEDIUM,Buildings With an Ocean View,79.2,0.8034899272507002,https://leetcode.com/problems/buildings-with-an-ocean-view
+MEDIUM,Minimum Add to Make Parentheses Valid,79.2,0.7468104705914912,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid
+MEDIUM,Shortest Path in Binary Matrix,79.2,0.48865985465597606,https://leetcode.com/problems/shortest-path-in-binary-matrix
+MEDIUM,"Pow(x, n)",79.2,0.3620256105946241,https://leetcode.com/problems/powx-n
+MEDIUM,Find Peak Element,77.5,0.4626273343911604,https://leetcode.com/problems/find-peak-element
+EASY,Valid Palindrome,77.5,0.49718163777991875,https://leetcode.com/problems/valid-palindrome
+EASY,Diameter of Binary Tree,77.5,0.623630049831296,https://leetcode.com/problems/diameter-of-binary-tree
+EASY,Range Sum of BST,75.6,0.8726715070568027,https://leetcode.com/problems/range-sum-of-bst
+MEDIUM,Top K Frequent Elements,75.6,0.63856625670809,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Remove Nth Node From End of List,73.6,0.47691657246071417,https://leetcode.com/problems/remove-nth-node-from-end-of-list
+MEDIUM,Lowest Common Ancestor of a Binary Tree III,73.6,0.8155051539998088,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii
+MEDIUM,Sum Root to Leaf Numbers,71.4,0.6753273147709874,https://leetcode.com/problems/sum-root-to-leaf-numbers
+MEDIUM,Interval List Intersections,71.4,0.7232043379850316,https://leetcode.com/problems/interval-list-intersections
+MEDIUM,Find First and Last Position of Element in Sorted Array,71.4,0.458349833089785,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,LRU Cache,71.4,0.4406247213609627,https://leetcode.com/problems/lru-cache
+HARD,Minimum Window Substring,68.9,0.44366894887910957,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Merge Intervals,68.9,0.48545757575757575,https://leetcode.com/problems/merge-intervals
+HARD,Merge k Sorted Lists,68.9,0.5529192068325716,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Clone Graph,66.2,0.6059688777050162,https://leetcode.com/problems/clone-graph
+MEDIUM,Custom Sort String,66.2,0.7153535590583346,https://leetcode.com/problems/custom-sort-string
+HARD,Making A Large Island,66.2,0.4966898168224465,https://leetcode.com/problems/making-a-large-island
+MEDIUM,K Closest Points to Origin,66.2,0.6738304841079154,https://leetcode.com/problems/k-closest-points-to-origin
+EASY,Moving Average from Data Stream,66.2,0.7938950953702668,https://leetcode.com/problems/moving-average-from-data-stream
+HARD,Trapping Rain Water,66.2,0.6391040000320579,https://leetcode.com/problems/trapping-rain-water
+EASY,Two Sum,63.1,0.5468034344705801,https://leetcode.com/problems/two-sum
+HARD,Valid Number,63.1,0.20853528839182353,https://leetcode.com/problems/valid-number
+EASY,Palindrome Number,63.1,0.5831320881235362,https://leetcode.com/problems/palindrome-number
+EASY,Closest Binary Search Tree Value,63.1,0.5039395704376597,https://leetcode.com/problems/closest-binary-search-tree-value
+MEDIUM,Binary Tree Right Side View,63.1,0.6492515858257244,https://leetcode.com/problems/binary-tree-right-side-view
+EASY,Kth Missing Positive Number,63.1,0.6150936292065435,https://leetcode.com/problems/kth-missing-positive-number
+MEDIUM,Next Permutation,63.1,0.4196795283231614,https://leetcode.com/problems/next-permutation
+MEDIUM,Copy List with Random Pointer,59.5,0.5897060977337281,https://leetcode.com/problems/copy-list-with-random-pointer
+MEDIUM,Accounts Merge,59.5,0.586034349497606,https://leetcode.com/problems/accounts-merge
+EASY,Best Time to Buy and Sell Stock,59.5,0.5457830638738218,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Subarray Sum Equals K,59.5,0.44664908483710536,https://leetcode.com/problems/subarray-sum-equals-k
+MEDIUM,Insert into a Sorted Circular Linked List,59.5,0.37418612304564985,https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list
+EASY,Add Strings,59.5,0.5166914415731544,https://leetcode.com/problems/add-strings
+EASY,Recyclable and Low Fat Products,55.2,0.8939404139372649,https://leetcode.com/problems/recyclable-and-low-fat-products
+HARD,Vertical Order Traversal of a Binary Tree,55.2,0.49916680988358125,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
+MEDIUM,Random Pick Index,55.2,0.6417113223854797,https://leetcode.com/problems/random-pick-index
+EASY,Longest Common Prefix,55.2,0.445614773098456,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Maximum Swap,55.2,0.5166388736501616,https://leetcode.com/problems/maximum-swap
+MEDIUM,Search in Rotated Sorted Array II,55.2,0.3844552905747342,https://leetcode.com/problems/search-in-rotated-sorted-array-ii
+MEDIUM,Course Schedule,55.2,0.48159938245413136,https://leetcode.com/problems/course-schedule
+MEDIUM,Longest Palindromic Substring,55.2,0.35047603551094314,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Longest Substring Without Repeating Characters,50.1,0.36045492011437036,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Valid Parentheses,50.1,0.41600866996818936,https://leetcode.com/problems/valid-parentheses
+EASY,Remove Duplicates from Sorted Array,50.1,0.5892731833826552,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+MEDIUM,3Sum,50.1,0.3609266622704558,https://leetcode.com/problems/3sum
+EASY,Maximum Average Subarray I,50.1,0.443985659521652,https://leetcode.com/problems/maximum-average-subarray-i
+MEDIUM,Palindromic Substrings,50.1,0.7108310816856728,https://leetcode.com/problems/palindromic-substrings
+MEDIUM,Continuous Subarray Sum,50.1,0.3062045034983064,https://leetcode.com/problems/continuous-subarray-sum
+MEDIUM,Group Shifted Strings,50.1,0.6672839400470171,https://leetcode.com/problems/group-shifted-strings
+EASY,Majority Element,50.1,0.6542334424330276,https://leetcode.com/problems/majority-element
+MEDIUM,Max Consecutive Ones III,50.1,0.6489526498350198,https://leetcode.com/problems/max-consecutive-ones-iii
+HARD,Expression Add Operators,50.1,0.4082219750561733,https://leetcode.com/problems/expression-add-operators
+MEDIUM,All Nodes Distance K in Binary Tree,50.1,0.6560864113748572,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+HARD,Word Ladder,50.1,0.4138436455977569,https://leetcode.com/problems/word-ladder
+EASY,Contains Duplicate II,43.5,0.47620470171195295,https://leetcode.com/problems/contains-duplicate-ii
+MEDIUM,Max Area of Island,43.5,0.7275360569225684,https://leetcode.com/problems/max-area-of-island
+EASY,Roman to Integer,43.5,0.6373304759721837,https://leetcode.com/problems/roman-to-integer
+EASY,Remove All Adjacent Duplicates In String,43.5,0.707590493780297,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
+MEDIUM,Maximum Subarray,43.5,0.5156267105840245,https://leetcode.com/problems/maximum-subarray
+HARD,Binary Tree Maximum Path Sum,43.5,0.407472160018517,https://leetcode.com/problems/binary-tree-maximum-path-sum
+HARD,Valid Palindrome III,43.5,0.4917380695049527,https://leetcode.com/problems/valid-palindrome-iii
+MEDIUM,Check Completeness of a Binary Tree,43.5,0.5781949018225693,https://leetcode.com/problems/check-completeness-of-a-binary-tree
+MEDIUM,Diagonal Traverse,43.5,0.6206064270995909,https://leetcode.com/problems/diagonal-traverse
+EASY,Merge Strings Alternately,43.5,0.8151994851449422,https://leetcode.com/problems/merge-strings-alternately
+MEDIUM,Add Two Numbers,43.5,0.4504457233049228,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Convert Binary Search Tree to Sorted Doubly Linked List,43.5,0.6529095063699252,https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list
+EASY,Create Hello World Function,43.5,0.8176060154915373,https://leetcode.com/problems/create-hello-world-function
+MEDIUM,Word Break,43.5,0.4769036064671045,https://leetcode.com/problems/word-break
+MEDIUM,Reverse Integer,34.3,0.2965437357262677,https://leetcode.com/problems/reverse-integer
+MEDIUM,Exclusive Time of Functions,34.3,0.6367789089010703,https://leetcode.com/problems/exclusive-time-of-functions
+EASY,Next Greater Element I,34.3,0.7367189153220973,https://leetcode.com/problems/next-greater-element-i
+MEDIUM,Walls and Gates,34.3,0.6233814493421121,https://leetcode.com/problems/walls-and-gates
+MEDIUM,Find Largest Value in Each Tree Row,34.3,0.6640702331898437,https://leetcode.com/problems/find-largest-value-in-each-tree-row
+EASY,Find the Index of the First Occurrence in a String,34.3,0.4419040419498201,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+MEDIUM,Zigzag Conversion,34.3,0.5032797739525265,https://leetcode.com/problems/zigzag-conversion
+EASY,Remove Element,34.3,0.5909869349466641,https://leetcode.com/problems/remove-element
+EASY,Toeplitz Matrix,34.3,0.6943677642240033,https://leetcode.com/problems/toeplitz-matrix
+MEDIUM,Rotate Image,34.3,0.767992104711811,https://leetcode.com/problems/rotate-image
+EASY,Missing Ranges,34.3,0.3480861835029056,https://leetcode.com/problems/missing-ranges
+MEDIUM,Shortest Path in a Hidden Grid,34.3,0.43202588219598426,https://leetcode.com/problems/shortest-path-in-a-hidden-grid
+MEDIUM,Subsets,34.3,0.7994370761186315,https://leetcode.com/problems/subsets
+HARD,Longest Increasing Path in a Matrix,34.3,0.5469386167010819,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+MEDIUM,Boundary of Binary Tree,34.3,0.4656704034335835,https://leetcode.com/problems/boundary-of-binary-tree
+MEDIUM,Count Ways To Build Good Strings,34.3,0.5935530246385136,https://leetcode.com/problems/count-ways-to-build-good-strings

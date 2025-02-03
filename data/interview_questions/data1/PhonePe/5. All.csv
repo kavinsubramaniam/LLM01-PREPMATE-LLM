@@ -1,0 +1,79 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Frog Jump,100.0,0.4632623451992331,https://leetcode.com/problems/frog-jump
+MEDIUM,Decoded String at Index,92.6,0.3653717445074931,https://leetcode.com/problems/decoded-string-at-index
+HARD,Burst Balloons,92.6,0.604018135821533,https://leetcode.com/problems/burst-balloons
+MEDIUM,Simple Bank System,86.7,0.6365708622398414,https://leetcode.com/problems/simple-bank-system
+MEDIUM,Maximum Tastiness of Candy Basket,86.7,0.6505858201482075,https://leetcode.com/problems/maximum-tastiness-of-candy-basket
+MEDIUM,Smallest String With Swaps,86.7,0.5897881094036773,https://leetcode.com/problems/smallest-string-with-swaps
+HARD,Count the Number of Arrays with K Matching Adjacent Elements,84.4,0.36043668122270744,https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements
+HARD,Smallest Range Covering Elements from K Lists,84.4,0.6978134921711758,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+HARD,Find Beautiful Indices in the Given Array II,84.4,0.2557710427135678,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii
+HARD,Viewers Turned Streamers,84.4,0.4327290869782139,https://leetcode.com/problems/viewers-turned-streamers
+MEDIUM,Maximum Amount of Money Robot Can Earn,84.4,0.29445955572825594,https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn
+HARD,Check if Point Is Reachable,84.4,0.4329997559189651,https://leetcode.com/problems/check-if-point-is-reachable
+HARD,Split Array Largest Sum,81.8,0.5710238758892878,https://leetcode.com/problems/split-array-largest-sum
+MEDIUM,Remove K Digits,78.9,0.34263985792922247,https://leetcode.com/problems/remove-k-digits
+HARD,Trapping Rain Water,75.7,0.6391090389663341,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Frequency of the Most Frequent Element,75.7,0.4399709662227444,https://leetcode.com/problems/frequency-of-the-most-frequent-element
+MEDIUM,Most Stones Removed with Same Row or Column,75.7,0.6212352573051557,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column
+HARD,Maximum Profit in Job Scheduling,72.0,0.543183964069717,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Candy,67.5,0.441680409458545,https://leetcode.com/problems/candy
+MEDIUM,House Robber,67.5,0.5185591131895351,https://leetcode.com/problems/house-robber
+MEDIUM,Koko Eating Bananas,67.5,0.48715415485380853,https://leetcode.com/problems/koko-eating-bananas
+HARD,Bus Routes,67.5,0.47123164892072,https://leetcode.com/problems/bus-routes
+MEDIUM,House Robber II,67.5,0.42942692229865015,https://leetcode.com/problems/house-robber-ii
+EASY,Best Time to Buy and Sell Stock,67.5,0.5457848891554425,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Amount of Time for Binary Tree to Be Infected,67.5,0.62984068348318,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected
+MEDIUM,Jump Game II,62.1,0.40989422983525275,https://leetcode.com/problems/jump-game-ii
+MEDIUM,Queue Reconstruction by Height,62.1,0.739219544761678,https://leetcode.com/problems/queue-reconstruction-by-height
+HARD,Word Ladder,62.1,0.41384754872740204,https://leetcode.com/problems/word-ladder
+MEDIUM,Distribute Coins in Binary Tree,62.1,0.7717590775728354,https://leetcode.com/problems/distribute-coins-in-binary-tree
+MEDIUM,Gas Station,62.1,0.45821170594581423,https://leetcode.com/problems/gas-station
+HARD,IPO,62.1,0.5301176298065341,https://leetcode.com/problems/ipo
+MEDIUM,Longest Palindromic Substring,62.1,0.3504775671388265,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Accounts Merge,62.1,0.5860402381415424,https://leetcode.com/problems/accounts-merge
+HARD,Reachable Nodes In Subdivided Graph,62.1,0.5069063262931952,https://leetcode.com/problems/reachable-nodes-in-subdivided-graph
+MEDIUM,Merge Intervals,55.2,0.48545553227135846,https://leetcode.com/problems/merge-intervals
+HARD,Best Time to Buy and Sell Stock III,55.2,0.49936882672830707,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+MEDIUM,Maximal Square,55.2,0.4795506133124887,https://leetcode.com/problems/maximal-square
+MEDIUM,Sort Colors,55.2,0.6593351604419617,https://leetcode.com/problems/sort-colors
+MEDIUM,Complete Binary Tree Inserter,55.2,0.6613507712496802,https://leetcode.com/problems/complete-binary-tree-inserter
+MEDIUM,Rotting Oranges,55.2,0.5565965873299298,https://leetcode.com/problems/rotting-oranges
+MEDIUM,House Robber III,55.2,0.5462701443238239,https://leetcode.com/problems/house-robber-iii
+HARD,Minimum Cost to Cut a Stick,55.2,0.618107068724154,https://leetcode.com/problems/minimum-cost-to-cut-a-stick
+HARD,Find Minimum Time to Finish All Jobs,55.2,0.42886472930704256,https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs
+HARD,Swim in Rising Water,55.2,0.6201502328013502,https://leetcode.com/problems/swim-in-rising-water
+HARD,Cracking the Safe,55.2,0.5745922231122115,https://leetcode.com/problems/cracking-the-safe
+MEDIUM,Number of Islands,55.2,0.6120962873747173,https://leetcode.com/problems/number-of-islands
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,55.2,0.5665677927723938,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+MEDIUM,Make Sum Divisible by P,45.5,0.39598306215377477,https://leetcode.com/problems/make-sum-divisible-by-p
+HARD,Sliding Window Maximum,45.5,0.4711565216336361,https://leetcode.com/problems/sliding-window-maximum
+HARD,Binary Tree Cameras,45.5,0.46914724697805477,https://leetcode.com/problems/binary-tree-cameras
+MEDIUM,Kth Smallest Element in a Sorted Matrix,45.5,0.6308964200047467,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
+HARD,Apply Operations to Maximize Frequency Score,45.5,0.37209538305428713,https://leetcode.com/problems/apply-operations-to-maximize-frequency-score
+MEDIUM,Maximum Total Damage With Spell Casting,45.5,0.2698892756741396,https://leetcode.com/problems/maximum-total-damage-with-spell-casting
+MEDIUM,LRU Cache,45.5,0.44062673572691013,https://leetcode.com/problems/lru-cache
+EASY,Longest Common Prefix,45.5,0.4456168059170498,https://leetcode.com/problems/longest-common-prefix
+HARD,Partition Array Into Two Arrays to Minimize Sum Difference,45.5,0.21111344222988163,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference
+MEDIUM,Find the Celebrity,45.5,0.4805436818913428,https://leetcode.com/problems/find-the-celebrity
+HARD,First Missing Positive,45.5,0.4039163869128009,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Longest Substring Without Repeating Characters,45.5,0.36045750152702316,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Best Time to Buy and Sell Stock II,45.5,0.6850390517233178,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+MEDIUM,Longest Repeating Character Replacement,45.5,0.5608918839231006,https://leetcode.com/problems/longest-repeating-character-replacement
+MEDIUM,Minimum Cost Tree From Leaf Values,45.5,0.677098034787954,https://leetcode.com/problems/minimum-cost-tree-from-leaf-values
+MEDIUM,Find the Duplicate Number,45.5,0.6211208099574409,https://leetcode.com/problems/find-the-duplicate-number
+MEDIUM,Copy List with Random Pointer,45.5,0.5897085504512558,https://leetcode.com/problems/copy-list-with-random-pointer
+MEDIUM,Magnetic Force Between Two Balls,45.5,0.7106723904770891,https://leetcode.com/problems/magnetic-force-between-two-balls
+MEDIUM,Course Schedule II,45.5,0.5227088837360188,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Daily Temperatures,45.5,0.6677638905099159,https://leetcode.com/problems/daily-temperatures
+HARD,Alien Dictionary,45.5,0.3631392739136759,https://leetcode.com/problems/alien-dictionary
+HARD,Largest Rectangle in Histogram,45.5,0.4624615089271864,https://leetcode.com/problems/largest-rectangle-in-histogram
+MEDIUM,Minimum Height Trees,45.5,0.4191978394470851,https://leetcode.com/problems/minimum-height-trees
+MEDIUM,Walking Robot Simulation,45.5,0.5800775939982218,https://leetcode.com/problems/walking-robot-simulation
+MEDIUM,String Compression,45.5,0.5683467484828254,https://leetcode.com/problems/string-compression
+HARD,Number of Islands II,45.5,0.39959380488255775,https://leetcode.com/problems/number-of-islands-ii
+HARD,Decode Ways II,45.5,0.30977732105388606,https://leetcode.com/problems/decode-ways-ii
+MEDIUM,Search in Rotated Sorted Array,45.5,0.4207851898875592,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Find All Possible Recipes from Given Supplies,45.5,0.5051695526171919,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies
+HARD,Sum of Distances in Tree,45.5,0.6527191679049034,https://leetcode.com/problems/sum-of-distances-in-tree
+MEDIUM,Minimum Cost For Tickets,45.5,0.6741644611110746,https://leetcode.com/problems/minimum-cost-for-tickets

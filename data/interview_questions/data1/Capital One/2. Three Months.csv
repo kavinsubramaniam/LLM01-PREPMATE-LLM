@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Simple Bank System,100.0,0.6365813772939758,https://leetcode.com/problems/simple-bank-system
+HARD,Block Placement Queries,97.9,0.15384978297792037,https://leetcode.com/problems/block-placement-queries
+MEDIUM,Simplify Path,83.0,0.45876941184948533,https://leetcode.com/problems/simplify-path
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,83.0,0.5665658299331127,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+HARD,Text Justification,72.0,0.46463350588941404,https://leetcode.com/problems/text-justification
+MEDIUM,Spiral Matrix,72.0,0.5243063820184993,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Rotate Image,63.2,0.7679934691501147,https://leetcode.com/problems/rotate-image
+EASY,Palindrome Number,63.2,0.5831331694499974,https://leetcode.com/problems/palindrome-number
+MEDIUM,Candy Crush,63.2,0.7712595762720418,https://leetcode.com/problems/candy-crush

@@ -1,0 +1,85 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Trapping Rain Water,100.0,0.6391050978337475,https://leetcode.com/problems/trapping-rain-water
+EASY,First Unique Character in a String,80.6,0.6301566751952941,https://leetcode.com/problems/first-unique-character-in-a-string
+MEDIUM,Robot Bounded In Circle,79.5,0.5606482330882583,https://leetcode.com/problems/robot-bounded-in-circle
+EASY,High Five,78.4,0.7444491301350148,https://leetcode.com/problems/high-five
+MEDIUM,Fraction to Recurring Decimal,75.9,0.2572144951222389,https://leetcode.com/problems/fraction-to-recurring-decimal
+HARD,Median of Two Sorted Arrays,71.6,0.42479864252246025,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Decode Ways,68.0,0.35913809246600775,https://leetcode.com/problems/decode-ways
+MEDIUM,Find the Winner of the Circular Game,65.9,0.8194868485935811,https://leetcode.com/problems/find-the-winner-of-the-circular-game
+MEDIUM,Longest Substring Without Repeating Characters,63.6,0.36045554796921764,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Better Compression of String,63.6,0.748259860788863,https://leetcode.com/problems/better-compression-of-string
+MEDIUM,Palindromic Substrings,61.0,0.7108307592062486,https://leetcode.com/problems/palindromic-substrings
+MEDIUM,Group Anagrams,58.0,0.7004721245196645,https://leetcode.com/problems/group-anagrams
+EASY,Backspace String Compare,58.0,0.49354629710972503,https://leetcode.com/problems/backspace-string-compare
+MEDIUM,Best Time to Buy and Sell Stock II,58.0,0.6850363573607936,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+EASY,Design HashMap,58.0,0.6563047181191721,https://leetcode.com/problems/design-hashmap
+MEDIUM,Construct Smallest Number From DI String,50.0,0.7639272815318496,https://leetcode.com/problems/construct-smallest-number-from-di-string
+EASY,Best Time to Buy and Sell Stock,50.0,0.5457831051589838,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Merge Intervals,50.0,0.48545720629607203,https://leetcode.com/problems/merge-intervals
+EASY,Two Sum,50.0,0.5468038100729441,https://leetcode.com/problems/two-sum
+MEDIUM,Knight Probability in Chessboard,50.0,0.5642837026706976,https://leetcode.com/problems/knight-probability-in-chessboard
+MEDIUM,Open the Lock,44.4,0.6053096658353411,https://leetcode.com/problems/open-the-lock
+MEDIUM,Maximum Product Subarray,44.4,0.3437477952771056,https://leetcode.com/problems/maximum-product-subarray
+MEDIUM,Find Minimum in Rotated Sorted Array,44.4,0.5190309358462378,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+HARD,Integer to English Words,44.4,0.34188137543640656,https://leetcode.com/problems/integer-to-english-words
+MEDIUM,Jump Game,44.4,0.3900463865300228,https://leetcode.com/problems/jump-game
+HARD,Maximum Profit in Job Scheduling,44.4,0.5431827823906754,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,House Robber,44.4,0.5185575105469447,https://leetcode.com/problems/house-robber
+HARD,Find the Closest Palindrome,44.4,0.31601159014528857,https://leetcode.com/problems/find-the-closest-palindrome
+MEDIUM,Minimum Cost Homecoming of a Robot in a Grid,44.4,0.511482406576618,https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid
+MEDIUM,Longest Palindromic Substring,44.4,0.3504762071733898,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Search in Rotated Sorted Array,44.4,0.420784827008661,https://leetcode.com/problems/search-in-rotated-sorted-array
+HARD,Merge k Sorted Lists,44.4,0.5529198813682755,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Generate Parentheses,44.4,0.7621017512945534,https://leetcode.com/problems/generate-parentheses
+MEDIUM,String to Integer (atoi),44.4,0.18477585893985762,https://leetcode.com/problems/string-to-integer-atoi
+MEDIUM,Maximum Subarray,44.4,0.515626770536645,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Container With Most Water,44.4,0.5685238060648052,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Kth Largest Element in an Array,44.4,0.6742747682667489,https://leetcode.com/problems/kth-largest-element-in-an-array
+EASY,Minimum Value to Get Positive Step by Step Sum,44.4,0.6498229681266569,https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum
+MEDIUM,Range Product Queries of Powers,44.4,0.4135966841873712,https://leetcode.com/problems/range-product-queries-of-powers
+MEDIUM,Pairs of Songs With Total Durations Divisible by 60,44.4,0.530986099877874,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+EASY,Third Maximum Number,44.4,0.3635572202022731,https://leetcode.com/problems/third-maximum-number
+MEDIUM,Minimum Length of String After Deleting Similar Ends,44.4,0.559105317172662,https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends
+EASY,Excel Sheet Column Number,36.6,0.6508176189475353,https://leetcode.com/problems/excel-sheet-column-number
+MEDIUM,Find Peak Element,36.6,0.4626279475157573,https://leetcode.com/problems/find-peak-element
+MEDIUM,Spiral Matrix II,36.6,0.7267694288633685,https://leetcode.com/problems/spiral-matrix-ii
+MEDIUM,Set Matrix Zeroes,36.6,0.5848597466027025,https://leetcode.com/problems/set-matrix-zeroes
+HARD,Binary Tree Maximum Path Sum,36.6,0.40747225348785404,https://leetcode.com/problems/binary-tree-maximum-path-sum
+MEDIUM,Restore IP Addresses,36.6,0.5199272620162904,https://leetcode.com/problems/restore-ip-addresses
+MEDIUM,Top K Frequent Elements,36.6,0.6385665482184751,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Number of Islands,36.6,0.612095300167789,https://leetcode.com/problems/number-of-islands
+HARD,Reaching Points,36.6,0.3348366004030232,https://leetcode.com/problems/reaching-points
+MEDIUM,Design Underground System,36.6,0.7479595419518175,https://leetcode.com/problems/design-underground-system
+MEDIUM,Snakes and Ladders,36.6,0.4390838414693314,https://leetcode.com/problems/snakes-and-ladders
+EASY,Next Greater Element I,36.6,0.7367189153220973,https://leetcode.com/problems/next-greater-element-i
+MEDIUM,LRU Cache,36.6,0.44062585889449307,https://leetcode.com/problems/lru-cache
+MEDIUM,Maximal Square,36.6,0.4795492325403397,https://leetcode.com/problems/maximal-square
+MEDIUM,Product of Array Except Self,36.6,0.6720158249062332,https://leetcode.com/problems/product-of-array-except-self
+HARD,Sliding Window Maximum,36.6,0.4711559760271694,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Maximum Sum Circular Subarray,36.6,0.46529553310629923,https://leetcode.com/problems/maximum-sum-circular-subarray
+MEDIUM,String Compression,36.6,0.568343035467803,https://leetcode.com/problems/string-compression
+MEDIUM,Ugly Number II,36.6,0.49143443700215167,https://leetcode.com/problems/ugly-number-ii
+MEDIUM,Maximum Size Subarray Sum Equals k,36.6,0.5013959128072193,https://leetcode.com/problems/maximum-size-subarray-sum-equals-k
+MEDIUM,Find All Good Indices,36.6,0.393022390835379,https://leetcode.com/problems/find-all-good-indices
+HARD,Count Palindromic Subsequences,36.6,0.38297935629722174,https://leetcode.com/problems/count-palindromic-subsequences
+HARD,Valid Arrangement of Pairs,36.6,0.6675983341045812,https://leetcode.com/problems/valid-arrangement-of-pairs
+MEDIUM,Count Number of Texts,36.6,0.484441871523973,https://leetcode.com/problems/count-number-of-texts
+MEDIUM,Sort the Jumbled Numbers,36.6,0.6006076176658023,https://leetcode.com/problems/sort-the-jumbled-numbers
+MEDIUM,Corporate Flight Bookings,36.6,0.6326246670173236,https://leetcode.com/problems/corporate-flight-bookings
+MEDIUM,Print Zero Even Odd,36.6,0.6240759399692422,https://leetcode.com/problems/print-zero-even-odd
+EASY,Perform String Shifts,36.6,0.5569218909307935,https://leetcode.com/problems/perform-string-shifts
+MEDIUM,Minimum Moves to Capture The Queen,36.6,0.21237373179195862,https://leetcode.com/problems/minimum-moves-to-capture-the-queen
+MEDIUM,Minimum Falling Path Sum,36.6,0.6222196965252929,https://leetcode.com/problems/minimum-falling-path-sum
+MEDIUM,Successful Pairs of Spells and Potions,36.6,0.44486328584059903,https://leetcode.com/problems/successful-pairs-of-spells-and-potions
+EASY,Climbing Stairs,36.6,0.5329291861399258,https://leetcode.com/problems/climbing-stairs
+EASY,Minimum Number of Chairs in a Waiting Room,36.6,0.8008413806291234,https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room
+EASY,Keep Multiplying Found Values by Two,36.6,0.7124594666030596,https://leetcode.com/problems/keep-multiplying-found-values-by-two
+EASY,Determine if Two Events Have Conflict,36.6,0.5195562241444152,https://leetcode.com/problems/determine-if-two-events-have-conflict
+HARD,Maximize Palindrome Length From Subsequences,36.6,0.36956456948708016,https://leetcode.com/problems/maximize-palindrome-length-from-subsequences
+MEDIUM,Count Collisions of Monkeys on a Polygon,36.6,0.28387536440389205,https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon
+HARD,Shortest Subarray with Sum at Least K,36.6,0.32162188935038105,https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k
+MEDIUM,Minimum Size Subarray Sum,36.6,0.4846769428158495,https://leetcode.com/problems/minimum-size-subarray-sum
+MEDIUM,Subarray Sum Equals K,36.6,0.4466487811156559,https://leetcode.com/problems/subarray-sum-equals-k
+HARD,Sudoku Solver,36.6,0.635481670544124,https://leetcode.com/problems/sudoku-solver
+EASY,Linked List Cycle,36.6,0.5170554762099521,https://leetcode.com/problems/linked-list-cycle

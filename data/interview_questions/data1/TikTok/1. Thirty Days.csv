@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Longest Increasing Subsequence,100.0,0.5692999936565157,https://leetcode.com/problems/longest-increasing-subsequence
+EASY,Reverse Linked List,86.4,0.7835414262277056,https://leetcode.com/problems/reverse-linked-list
+HARD,Minimum Window Substring,86.4,0.44366956852978456,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Number of Islands,75.7,0.6120951503032026,https://leetcode.com/problems/number-of-islands
+HARD,Shortest Distance from All Buildings,75.7,0.43710291957399927,https://leetcode.com/problems/shortest-distance-from-all-buildings
+HARD,Maximum Spending After Buying Items,75.7,0.6135812449474535,https://leetcode.com/problems/maximum-spending-after-buying-items
+MEDIUM,Partition Equal Subset Sum,75.7,0.4706591246984873,https://leetcode.com/problems/partition-equal-subset-sum
+MEDIUM,Furthest Building You Can Reach,75.7,0.5006008954275906,https://leetcode.com/problems/furthest-building-you-can-reach
+MEDIUM,Time Based Key-Value Store,75.7,0.49306827074911214,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,Spiral Matrix,75.7,0.5243047186127466,https://leetcode.com/problems/spiral-matrix

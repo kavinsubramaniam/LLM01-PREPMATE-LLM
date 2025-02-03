@@ -1,0 +1,14 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Valid Parentheses,100.0,0.4160114622220911,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Substring Without Repeating Characters,91.8,0.360458569823108,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Koko Eating Bananas,88.2,0.4871540612140187,https://leetcode.com/problems/koko-eating-bananas
+EASY,Baseball Game,78.9,0.7793765206868166,https://leetcode.com/problems/baseball-game
+MEDIUM,Minimum Cost For Tickets,78.9,0.6741660660251432,https://leetcode.com/problems/minimum-cost-for-tickets
+MEDIUM,Validate IP Address,72.3,0.276399284401149,https://leetcode.com/problems/validate-ip-address
+MEDIUM,Longest Palindromic Substring,63.0,0.35047782621795276,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Maximum Repeating Substring,63.0,0.39109021589651277,https://leetcode.com/problems/maximum-repeating-substring
+EASY,Partition Array Into Three Parts With Equal Sum,63.0,0.4200413952443603,https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum
+MEDIUM,Kth Largest Element in an Array,63.0,0.6742762751255185,https://leetcode.com/problems/kth-largest-element-in-an-array
+EASY,Best Time to Buy and Sell Stock,63.0,0.5457854806877719,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Minimum Length of Anagram Concatenation,63.0,0.41389728096676737,https://leetcode.com/problems/minimum-length-of-anagram-concatenation
+MEDIUM,Number of Islands,63.0,0.6120965603061489,https://leetcode.com/problems/number-of-islands

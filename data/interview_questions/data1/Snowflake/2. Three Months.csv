@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Maximum Profit in Job Scheduling,100.0,0.5431856967415748,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Trapping Rain Water,92.4,0.6391078018500639,https://leetcode.com/problems/trapping-rain-water
+HARD,Painting the Walls,92.4,0.5033547029278086,https://leetcode.com/problems/painting-the-walls
+HARD,String Transformation,92.4,0.3012378803585585,https://leetcode.com/problems/string-transformation
+MEDIUM,Course Schedule,81.7,0.4816000723871239,https://leetcode.com/problems/course-schedule
+MEDIUM,Construct Binary Tree from Preorder and Inorder Traversal,81.7,0.6577038114040011,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+MEDIUM,Time Based Key-Value Store,81.7,0.4930683734641277,https://leetcode.com/problems/time-based-key-value-store

@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Number of Islands,100.0,0.6120964372371565,https://leetcode.com/problems/number-of-islands
+MEDIUM,Group Anagrams,91.8,0.7004739294084342,https://leetcode.com/problems/group-anagrams
+MEDIUM,Daily Temperatures,91.8,0.667763324819432,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Heaters,91.8,0.39086069600668727,https://leetcode.com/problems/heaters
+MEDIUM,Course Schedule,91.8,0.48159965524274867,https://leetcode.com/problems/course-schedule
+HARD,Find Median from Data Stream,79.4,0.5275410199136713,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Course Schedule II,79.4,0.5227090845594887,https://leetcode.com/problems/course-schedule-ii
+EASY,Shortest Word Distance,69.6,0.6567601921821066,https://leetcode.com/problems/shortest-word-distance
+MEDIUM,Search Suggestions System,69.6,0.6505754074095652,https://leetcode.com/problems/search-suggestions-system
+MEDIUM,Shortest Word Distance II,69.6,0.6168071152086436,https://leetcode.com/problems/shortest-word-distance-ii
+EASY,Move Zeroes,69.6,0.624069204379106,https://leetcode.com/problems/move-zeroes
+MEDIUM,Snakes and Ladders,69.6,0.4390895206379333,https://leetcode.com/problems/snakes-and-ladders
+MEDIUM,Find the Duplicate Number,69.6,0.6211208099574409,https://leetcode.com/problems/find-the-duplicate-number
+MEDIUM,Insert into a Sorted Circular Linked List,69.6,0.3741938651020634,https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list

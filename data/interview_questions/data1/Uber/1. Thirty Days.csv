@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Spiral Matrix,100.0,0.5243052224537091,https://leetcode.com/problems/spiral-matrix
+HARD,Text Justification,100.0,0.4646319333405232,https://leetcode.com/problems/text-justification
+HARD,Bus Routes,92.1,0.47123458198906604,https://leetcode.com/problems/bus-routes
+HARD,Block Placement Queries,92.1,0.15383345128568057,https://leetcode.com/problems/block-placement-queries
+MEDIUM,Number of Islands,81.0,0.6120947756412299,https://leetcode.com/problems/number-of-islands
+HARD,Longest Path With Different Adjacent Characters,81.0,0.5409852813970754,https://leetcode.com/problems/longest-path-with-different-adjacent-characters
+MEDIUM,Design Memory Allocator,81.0,0.5347749559969827,https://leetcode.com/problems/design-memory-allocator
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,81.0,0.5665651499541476,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit

@@ -1,0 +1,78 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Predict the Winner,100.0,0.5548847396327118,https://leetcode.com/problems/predict-the-winner
+MEDIUM,Longest Palindromic Substring,97.2,0.3504766094056425,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,House Robber,96.9,0.5185577280155941,https://leetcode.com/problems/house-robber
+MEDIUM,Rotate Image,83.1,0.767993389785778,https://leetcode.com/problems/rotate-image
+EASY,Lucky Numbers in a Matrix,80.9,0.7990262424038732,https://leetcode.com/problems/lucky-numbers-in-a-matrix
+MEDIUM,Spiral Matrix,80.9,0.5243057901900781,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Maximum Subarray,68.2,0.515626959217576,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Stone Game,68.2,0.7132752763491412,https://leetcode.com/problems/stone-game
+EASY,Number of Valid Words in a Sentence,68.2,0.29643551635530246,https://leetcode.com/problems/number-of-valid-words-in-a-sentence
+MEDIUM,LRU Cache,65.0,0.44062694184306417,https://leetcode.com/problems/lru-cache
+EASY,Fizz Buzz,65.0,0.7363863947081613,https://leetcode.com/problems/fizz-buzz
+MEDIUM,Find Third Transaction,65.0,0.5341210022407822,https://leetcode.com/problems/find-third-transaction
+MEDIUM,Snakes and Ladders,65.0,0.4390881956816215,https://leetcode.com/problems/snakes-and-ladders
+MEDIUM,Find the Largest Area of Square Inside Two Rectangles,63.1,0.45208619899128843,https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles
+HARD,Minimum Cost to Make Array Equal,63.1,0.4612696138898837,https://leetcode.com/problems/minimum-cost-to-make-array-equal
+MEDIUM,Number of Equal Count Substrings,63.1,0.45103311633172943,https://leetcode.com/problems/number-of-equal-count-substrings
+HARD,Sum of k-Mirror Numbers,63.1,0.4233306077950395,https://leetcode.com/problems/sum-of-k-mirror-numbers
+EASY,Check if Binary String Has at Most One Segment of Ones,63.1,0.3918918918918919,https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones
+MEDIUM,Merge Intervals,61.1,0.4854566161424431,https://leetcode.com/problems/merge-intervals
+HARD,Word Search II,61.1,0.36892863771690054,https://leetcode.com/problems/word-search-ii
+EASY,Maximum Difference Between Increasing Elements,61.1,0.58183810743261,https://leetcode.com/problems/maximum-difference-between-increasing-elements
+EASY,Two Sum,58.8,0.5468045357782032,https://leetcode.com/problems/two-sum
+HARD,Cherry Pickup,56.2,0.37427317654363457,https://leetcode.com/problems/cherry-pickup
+EASY,Valid Parentheses,56.2,0.41601009526376986,https://leetcode.com/problems/valid-parentheses
+EASY,Happy Number,56.2,0.5733805332826541,https://leetcode.com/problems/happy-number
+HARD,Trapping Rain Water,53.2,0.6391071974193677,https://leetcode.com/problems/trapping-rain-water
+EASY,Best Time to Buy and Sell Stock,53.2,0.5457833440848968,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Linked List Cycle,49.7,0.5170561909929714,https://leetcode.com/problems/linked-list-cycle
+MEDIUM,Expressive Words,49.7,0.4626472922187786,https://leetcode.com/problems/expressive-words
+HARD,Strange Printer,49.7,0.6093475464516575,https://leetcode.com/problems/strange-printer
+HARD,Remove Boxes,49.7,0.481066610975575,https://leetcode.com/problems/remove-boxes
+MEDIUM,Decode String,49.7,0.6045197485349565,https://leetcode.com/problems/decode-string
+MEDIUM,Number of Islands,49.7,0.6120954033024517,https://leetcode.com/problems/number-of-islands
+HARD,Max Points on a Line,49.7,0.28139639990047943,https://leetcode.com/problems/max-points-on-a-line
+MEDIUM,Word Search,45.4,0.4430728726155309,https://leetcode.com/problems/word-search
+HARD,Burst Balloons,45.4,0.6040145219316578,https://leetcode.com/problems/burst-balloons
+MEDIUM,Longest Palindromic Subsequence,45.4,0.635024183884309,https://leetcode.com/problems/longest-palindromic-subsequence
+MEDIUM,Palindromic Substrings,45.4,0.7108315424795613,https://leetcode.com/problems/palindromic-substrings
+MEDIUM,Search a 2D Matrix,45.4,0.5155338706690856,https://leetcode.com/problems/search-a-2d-matrix
+EASY,Move Zeroes,45.4,0.6240678950575538,https://leetcode.com/problems/move-zeroes
+MEDIUM,Add Two Numbers,39.9,0.4504471352288316,https://leetcode.com/problems/add-two-numbers
+EASY,Merge Sorted Array,39.9,0.5190072252122699,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Gas Station,39.9,0.45821128172188286,https://leetcode.com/problems/gas-station
+MEDIUM,Longest Consecutive Sequence,39.9,0.4750194056442015,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Product of Array Except Self,39.9,0.6720153149161397,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,3Sum,39.9,0.3609278293769468,https://leetcode.com/problems/3sum
+MEDIUM,Zigzag Conversion,39.9,0.5032816399656508,https://leetcode.com/problems/zigzag-conversion
+MEDIUM,Longest Substring Without Repeating Characters,39.9,0.3604562243496632,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Restore IP Addresses,32.3,0.5199272620162904,https://leetcode.com/problems/restore-ip-addresses
+EASY,Climbing Stairs,32.3,0.5329292792056285,https://leetcode.com/problems/climbing-stairs
+HARD,Find Servers That Handled Most Number of Requests,32.3,0.43692201518288476,https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests
+EASY,Valid Palindrome,32.3,0.49718318278619605,https://leetcode.com/problems/valid-palindrome
+HARD,Count of Integers,32.3,0.35037948776258565,https://leetcode.com/problems/count-of-integers
+EASY,Remove Duplicates from Sorted Array,32.3,0.5892746397738533,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+MEDIUM,Min Stack,32.3,0.5561975712239713,https://leetcode.com/problems/min-stack
+EASY,Single Number,32.3,0.7497353449348835,https://leetcode.com/problems/single-number
+MEDIUM,Jump Game,32.3,0.39004636325592057,https://leetcode.com/problems/jump-game
+EASY,Pascal's Triangle,32.3,0.7612226714832278,https://leetcode.com/problems/pascals-triangle
+MEDIUM,Reverse Words in a String,32.3,0.48959923214818246,https://leetcode.com/problems/reverse-words-in-a-string
+MEDIUM,Group Anagrams,32.3,0.7004730991584354,https://leetcode.com/problems/group-anagrams
+MEDIUM,Game of Life,32.3,0.7065309023150433,https://leetcode.com/problems/game-of-life
+MEDIUM,Minimum Deletions to Make Character Frequencies Unique,32.3,0.6130406397556887,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique
+MEDIUM,Design Browser History,32.3,0.778405594890416,https://leetcode.com/problems/design-browser-history
+EASY,Maximum Product of Two Elements in an Array,32.3,0.8302197780109427,https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array
+MEDIUM,Beautiful Arrangement,32.3,0.6441346183410828,https://leetcode.com/problems/beautiful-arrangement
+MEDIUM,Validate IP Address,32.3,0.2763983304622718,https://leetcode.com/problems/validate-ip-address
+MEDIUM,Remove K Digits,32.3,0.3426374184932241,https://leetcode.com/problems/remove-k-digits
+MEDIUM,Insert Delete GetRandom O(1),32.3,0.5482813350905642,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Top K Frequent Elements,32.3,0.6385666533626023,https://leetcode.com/problems/top-k-frequent-elements
+EASY,Missing Number,32.3,0.6894107591099154,https://leetcode.com/problems/missing-number
+EASY,Reverse Linked List,32.3,0.7835419621752263,https://leetcode.com/problems/reverse-linked-list
+EASY,Number of 1 Bits,32.3,0.7337902136702924,https://leetcode.com/problems/number-of-1-bits
+MEDIUM,Two Sum II - Input Array Is Sorted,32.3,0.6262325869400169,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+MEDIUM,Unique Paths II,32.3,0.4259050542905808,https://leetcode.com/problems/unique-paths-ii
+MEDIUM,Next Permutation,32.3,0.41968219970923537,https://leetcode.com/problems/next-permutation
+HARD,Merge k Sorted Lists,32.3,0.5529202595615701,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Letter Combinations of a Phone Number,32.3,0.6268934616995981,https://leetcode.com/problems/letter-combinations-of-a-phone-number

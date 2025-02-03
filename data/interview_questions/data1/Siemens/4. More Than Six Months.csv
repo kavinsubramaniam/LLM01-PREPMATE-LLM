@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Number of Islands,100.0,0.6120965685630616,https://leetcode.com/problems/number-of-islands
+EASY,Two Sum,85.8,0.5468071551249432,https://leetcode.com/problems/two-sum
+EASY,Best Time to Buy and Sell Stock,85.8,0.5457853340252061,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Merge Two Sorted Lists,85.8,0.6598127866617755,https://leetcode.com/problems/merge-two-sorted-lists
+EASY,Reverse Linked List,85.8,0.7835439797933943,https://leetcode.com/problems/reverse-linked-list
+HARD,LFU Cache,85.8,0.455214058992026,https://leetcode.com/problems/lfu-cache
+EASY,Valid Parentheses,85.8,0.4160115630752803,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Letter Combinations of a Phone Number,85.8,0.6268953317313398,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Largest Number,74.5,0.4059853459791532,https://leetcode.com/problems/largest-number
+MEDIUM,Longest Subarray With Maximum Bitwise AND,74.5,0.6184557408335895,https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and
+MEDIUM,3Sum,74.5,0.3609291219648176,https://leetcode.com/problems/3sum
+EASY,Contains Duplicate,74.5,0.6263057904455785,https://leetcode.com/problems/contains-duplicate
+MEDIUM,Top K Frequent Elements,74.5,0.6385655291460302,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Jump Game II,74.5,0.40989440237848696,https://leetcode.com/problems/jump-game-ii
+MEDIUM,Merge Intervals,74.5,0.48545638042040923,https://leetcode.com/problems/merge-intervals
+HARD,First Missing Positive,74.5,0.4039163695785726,https://leetcode.com/problems/first-missing-positive
+EASY,Palindrome Number,74.5,0.5831348954086033,https://leetcode.com/problems/palindrome-number

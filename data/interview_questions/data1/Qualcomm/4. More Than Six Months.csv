@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Reverse Linked List,100.0,0.7835426723509258,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,LRU Cache,91.1,0.4406276197549748,https://leetcode.com/problems/lru-cache
+EASY,Valid Parentheses,91.1,0.41601078086603416,https://leetcode.com/problems/valid-parentheses
+EASY,Palindrome Number,78.7,0.5831337873011891,https://leetcode.com/problems/palindrome-number
+MEDIUM,Rotate Image,78.7,0.7679946689269085,https://leetcode.com/problems/rotate-image
+MEDIUM,Swap Nodes in Pairs,78.7,0.6616210051468076,https://leetcode.com/problems/swap-nodes-in-pairs
+EASY,Palindrome Linked List,78.7,0.5483736832605711,https://leetcode.com/problems/palindrome-linked-list
+EASY,Single Number,78.7,0.7497358485179078,https://leetcode.com/problems/single-number
+EASY,Power of Two,78.7,0.4812920235842433,https://leetcode.com/problems/power-of-two
+EASY,Number of 1 Bits,78.7,0.7337913748836429,https://leetcode.com/problems/number-of-1-bits
+EASY,Find Winner on a Tic Tac Toe Game,78.7,0.5402814772834609,https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game
+MEDIUM,Longest Substring Without Repeating Characters,78.7,0.36045684604743594,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Min Stack,78.7,0.5561983415786111,https://leetcode.com/problems/min-stack
+EASY,Climbing Stairs,78.7,0.5329286855354708,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Maximum Subarray,78.7,0.5156270561990303,https://leetcode.com/problems/maximum-subarray
+HARD,Reverse Nodes in k-Group,78.7,0.6153402286396421,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Design Memory Allocator,78.7,0.5347749559969827,https://leetcode.com/problems/design-memory-allocator

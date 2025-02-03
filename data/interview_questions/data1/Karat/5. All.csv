@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Text Justification,100.0,0.46463514475390755,https://leetcode.com/problems/text-justification
+EASY,Find Words That Can Be Formed by Characters,88.0,0.7084205698789655,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters
+EASY,Check if Every Row and Column Contains All Numbers,85.8,0.5238629816402051,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers
+MEDIUM,Word Search,80.7,0.443073874480797,https://leetcode.com/problems/word-search
+MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,77.5,0.46035782191372865,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
+MEDIUM,Course Schedule,73.8,0.48160005275640727,https://leetcode.com/problems/course-schedule
+MEDIUM,Subdomain Visit Count,63.3,0.7664859352533935,https://leetcode.com/problems/subdomain-visit-count
+MEDIUM,Number of Islands,63.3,0.6120966187232968,https://leetcode.com/problems/number-of-islands
+EASY,Ransom Note,63.3,0.6355402514510161,https://leetcode.com/problems/ransom-note
+EASY,Two Sum,55.0,0.5468062816743308,https://leetcode.com/problems/two-sum
+MEDIUM,Valid Sudoku,55.0,0.6132876818064307,https://leetcode.com/problems/valid-sudoku
+HARD,Word Search II,55.0,0.36892695653298924,https://leetcode.com/problems/word-search-ii
+MEDIUM,Course Schedule II,55.0,0.5227088455164004,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Maximal Square,55.0,0.4795506133124887,https://leetcode.com/problems/maximal-square

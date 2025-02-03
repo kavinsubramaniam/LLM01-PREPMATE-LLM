@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Decode Ways,100.0,0.3591395481921767,https://leetcode.com/problems/decode-ways
+MEDIUM,Reach a Number,96.9,0.43580906302144434,https://leetcode.com/problems/reach-a-number
+MEDIUM,Number of Longest Increasing Subsequence,89.2,0.49192455566832455,https://leetcode.com/problems/number-of-longest-increasing-subsequence
+MEDIUM,Longest Increasing Subsequence,89.2,0.5693003530580265,https://leetcode.com/problems/longest-increasing-subsequence
+HARD,Reverse Nodes in k-Group,84.0,0.6153412892352833,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Count Unreachable Pairs of Nodes in an Undirected Graph,84.0,0.4924632271471554,https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph
+MEDIUM,Minimum Number of Swaps to Make the Binary String Alternating,68.1,0.43616146185258087,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating

@@ -1,0 +1,101 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Climbing Stairs,100.0,0.5329292709825935,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Spiral Matrix,100.0,0.5243055586979718,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Longest Substring Without Repeating Characters,95.1,0.36045657635775846,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Best Time to Buy and Sell Stock,94.0,0.545783532030549,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Longest Palindromic Substring,94.0,0.3504766876377381,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Valid Parentheses,90.3,0.41601034139621307,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Decode String,87.5,0.6045202580611913,https://leetcode.com/problems/decode-string
+MEDIUM,Group Anagrams,87.5,0.7004731394475059,https://leetcode.com/problems/group-anagrams
+MEDIUM,Number of Islands,84.3,0.6120956913472477,https://leetcode.com/problems/number-of-islands
+EASY,Sort Even and Odd Indices Independently,84.3,0.6248535601162841,https://leetcode.com/problems/sort-even-and-odd-indices-independently
+EASY,Move Zeroes,84.3,0.6240680246998105,https://leetcode.com/problems/move-zeroes
+MEDIUM,Compare Version Numbers,80.6,0.41776988602659115,https://leetcode.com/problems/compare-version-numbers
+HARD,Trapping Rain Water,80.6,0.6391073292181204,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Merge Intervals,78.5,0.4854560636490815,https://leetcode.com/problems/merge-intervals
+EASY,Find Winner on a Tic Tac Toe Game,78.5,0.5402814772834609,https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game
+EASY,Two Sum,78.5,0.5468049193751959,https://leetcode.com/problems/two-sum
+MEDIUM,Zigzag Conversion,76.2,0.5032824179803824,https://leetcode.com/problems/zigzag-conversion
+EASY,Longest Common Prefix,76.2,0.44561620904802285,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Remove All Occurrences of a Substring,76.2,0.7834179708819111,https://leetcode.com/problems/remove-all-occurrences-of-a-substring
+EASY,Excel Sheet Column Number,73.7,0.6508188220539288,https://leetcode.com/problems/excel-sheet-column-number
+MEDIUM,Rotate Array,73.7,0.4218124868950023,https://leetcode.com/problems/rotate-array
+MEDIUM,Generate Parentheses,70.9,0.762102708488623,https://leetcode.com/problems/generate-parentheses
+HARD,Text Justification,67.7,0.464634007958204,https://leetcode.com/problems/text-justification
+MEDIUM,Container With Most Water,67.7,0.5685252983295038,https://leetcode.com/problems/container-with-most-water
+EASY,Merge Sorted Array,67.7,0.5190071579250805,https://leetcode.com/problems/merge-sorted-array
+EASY,Word Pattern,67.7,0.42681050733566667,https://leetcode.com/problems/word-pattern
+MEDIUM,Sort Colors,64.0,0.6593333095778331,https://leetcode.com/problems/sort-colors
+HARD,Median of Two Sorted Arrays,64.0,0.4247999805872281,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Rotate Image,64.0,0.7679936456151326,https://leetcode.com/problems/rotate-image
+EASY,Replace Elements with Greatest Element on Right Side,64.0,0.7136856649843663,https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side
+EASY,Happy Number,64.0,0.5733804844359758,https://leetcode.com/problems/happy-number
+MEDIUM,Search in Rotated Sorted Array,64.0,0.4207856206945493,https://leetcode.com/problems/search-in-rotated-sorted-array
+HARD,Largest Rectangle in Histogram,59.7,0.46246144972598613,https://leetcode.com/problems/largest-rectangle-in-histogram
+MEDIUM,Edit Distance,59.7,0.5793857224823624,https://leetcode.com/problems/edit-distance
+MEDIUM,Partition Equal Subset Sum,59.7,0.4706598633186151,https://leetcode.com/problems/partition-equal-subset-sum
+EASY,Roman to Integer,59.7,0.6373319395180852,https://leetcode.com/problems/roman-to-integer
+MEDIUM,Spiral Matrix II,59.7,0.726770041779996,https://leetcode.com/problems/spiral-matrix-ii
+MEDIUM,Find the Duplicate Number,59.7,0.6211189224938395,https://leetcode.com/problems/find-the-duplicate-number
+EASY,Reverse Vowels of a String,59.7,0.5624181751641003,https://leetcode.com/problems/reverse-vowels-of-a-string
+MEDIUM,Combination Sum,59.7,0.7356035547319424,https://leetcode.com/problems/combination-sum
+MEDIUM,Non-overlapping Intervals,59.7,0.5469650442148144,https://leetcode.com/problems/non-overlapping-intervals
+HARD,Wildcard Matching,59.7,0.29130347552792313,https://leetcode.com/problems/wildcard-matching
+HARD,Integer to English Words,54.4,0.3418809308953978,https://leetcode.com/problems/integer-to-english-words
+EASY,Merge Strings Alternately,54.4,0.8152031907049168,https://leetcode.com/problems/merge-strings-alternately
+MEDIUM,Asteroid Collision,54.4,0.4495649196922251,https://leetcode.com/problems/asteroid-collision
+HARD,Word Search II,54.4,0.3689285845795876,https://leetcode.com/problems/word-search-ii
+EASY,Shuffle the Array,54.4,0.8873523574008395,https://leetcode.com/problems/shuffle-the-array
+MEDIUM,Reverse Words in a String,54.4,0.4896002081337688,https://leetcode.com/problems/reverse-words-in-a-string
+EASY,Single Number,54.4,0.7497352900567429,https://leetcode.com/problems/single-number
+MEDIUM,3Sum Closest,54.4,0.46432332824313355,https://leetcode.com/problems/3sum-closest
+MEDIUM,Word Search,54.4,0.44307292486499855,https://leetcode.com/problems/word-search
+MEDIUM,Count and Say,54.4,0.5746386095717444,https://leetcode.com/problems/count-and-say
+EASY,Remove Duplicates from Sorted Array,54.4,0.5892753480561013,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+MEDIUM,Maximum Subarray,54.4,0.5156271020552626,https://leetcode.com/problems/maximum-subarray
+MEDIUM,3Sum,54.4,0.3609281111568119,https://leetcode.com/problems/3sum
+MEDIUM,Letter Combinations of a Phone Number,54.4,0.626893457677932,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+EASY,Add to Array-Form of Integer,54.4,0.4500952560893046,https://leetcode.com/problems/add-to-array-form-of-integer
+MEDIUM,Valid Sudoku,54.4,0.6132873803424566,https://leetcode.com/problems/valid-sudoku
+MEDIUM,Best Time to Buy and Sell Stock II,54.4,0.685038290939793,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+HARD,Regular Expression Matching,54.4,0.2877402765817119,https://leetcode.com/problems/regular-expression-matching
+MEDIUM,Decode Ways,54.4,0.3591372130117027,https://leetcode.com/problems/decode-ways
+MEDIUM,Integer to Roman,54.4,0.6736956117404757,https://leetcode.com/problems/integer-to-roman
+MEDIUM,Restore IP Addresses,54.4,0.5199272620162904,https://leetcode.com/problems/restore-ip-addresses
+EASY,Maximum Population Year,47.6,0.6197891710589363,https://leetcode.com/problems/maximum-population-year
+EASY,Reverse Only Letters,47.6,0.6617852926734991,https://leetcode.com/problems/reverse-only-letters
+MEDIUM,Find the Winner of the Circular Game,47.6,0.8194877955378829,https://leetcode.com/problems/find-the-winner-of-the-circular-game
+EASY,Binary Search,47.6,0.5893499933731702,https://leetcode.com/problems/binary-search
+MEDIUM,Basic Calculator II,47.6,0.4496697068938649,https://leetcode.com/problems/basic-calculator-ii
+MEDIUM,Diagonal Traverse,47.6,0.6206070901756814,https://leetcode.com/problems/diagonal-traverse
+MEDIUM,Maximum Sum of an Hourglass,47.6,0.7567641014317985,https://leetcode.com/problems/maximum-sum-of-an-hourglass
+EASY,Middle of the Linked List,47.6,0.7988361027304761,https://leetcode.com/problems/middle-of-the-linked-list
+EASY,Find the Index of the First Occurrence in a String,47.6,0.44190433038210114,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+EASY,Search Insert Position,47.6,0.47999365512314346,https://leetcode.com/problems/search-insert-position
+EASY,Palindrome Number,47.6,0.583133685102937,https://leetcode.com/problems/palindrome-number
+MEDIUM,Longest Consecutive Sequence,47.6,0.475018683536367,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Minimum Time Difference,47.6,0.622004527515676,https://leetcode.com/problems/minimum-time-difference
+MEDIUM,Subsets,47.6,0.7994393862078257,https://leetcode.com/problems/subsets
+MEDIUM,Longest Increasing Subsequence,47.6,0.5693006175148364,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Word Break,47.6,0.47690408825270325,https://leetcode.com/problems/word-break
+MEDIUM,Permutations,47.6,0.7986469916958044,https://leetcode.com/problems/permutations
+EASY,Excel Sheet Column Title,47.6,0.42575269685710704,https://leetcode.com/problems/excel-sheet-column-title
+MEDIUM,Find Triangular Sum of an Array,47.6,0.7877184346541966,https://leetcode.com/problems/find-triangular-sum-of-an-array
+MEDIUM,House Robber,47.6,0.518557894802818,https://leetcode.com/problems/house-robber
+MEDIUM,Product of Array Except Self,47.6,0.6720160477333171,https://leetcode.com/problems/product-of-array-except-self
+EASY,First Unique Character in a String,38.2,0.6301576841656858,https://leetcode.com/problems/first-unique-character-in-a-string
+EASY,Remove All Adjacent Duplicates In String,38.2,0.7075948465326164,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
+MEDIUM,Unique Binary Search Trees,38.2,0.6198258623278415,https://leetcode.com/problems/unique-binary-search-trees
+MEDIUM,Reverse Linked List II,38.2,0.4883992733360297,https://leetcode.com/problems/reverse-linked-list-ii
+MEDIUM,Remove Duplicates from Sorted Array II,38.2,0.615275923107978,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
+EASY,Isomorphic Strings,38.2,0.46192457471551635,https://leetcode.com/problems/isomorphic-strings
+EASY,Design HashMap,38.2,0.6563040385360126,https://leetcode.com/problems/design-hashmap
+EASY,Palindrome Linked List,38.2,0.5483735801008296,https://leetcode.com/problems/palindrome-linked-list
+MEDIUM,Coin Change,38.2,0.4551641082130591,https://leetcode.com/problems/coin-change
+EASY,Number of Days Between Two Dates,38.2,0.5084894960472636,https://leetcode.com/problems/number-of-days-between-two-dates
+MEDIUM,Jump Game,38.2,0.39004611430374125,https://leetcode.com/problems/jump-game
+MEDIUM,Cinema Seat Allocation,38.2,0.4240031071983428,https://leetcode.com/problems/cinema-seat-allocation
+HARD,N-Queens,38.2,0.7111801217140165,https://leetcode.com/problems/n-queens
+MEDIUM,Longest Repeating Character Replacement,38.2,0.5608917989737919,https://leetcode.com/problems/longest-repeating-character-replacement
+MEDIUM,Remove K Digits,38.2,0.34263862952022994,https://leetcode.com/problems/remove-k-digits
+MEDIUM,The Latest Time to Catch a Bus,38.2,0.2789678129747255,https://leetcode.com/problems/the-latest-time-to-catch-a-bus

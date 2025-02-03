@@ -1,0 +1,25 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Rank Teams by Votes,100.0,0.5882625064943383,https://leetcode.com/problems/rank-teams-by-votes
+MEDIUM,Design Snake Game,88.3,0.38982237780370804,https://leetcode.com/problems/design-snake-game
+EASY,Maximum Area of Longest Diagonal Rectangle,79.1,0.3651729050641109,https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle
+MEDIUM,Maximum Square Area by Removing Fences From a Field,79.1,0.23755308018955013,https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field
+MEDIUM,Stock Price Fluctuation ,72.1,0.48628502113006733,https://leetcode.com/problems/stock-price-fluctuation
+HARD,All O`one Data Structure,69.1,0.449628556389427,https://leetcode.com/problems/all-oone-data-structure
+MEDIUM,High-Access Employees,69.1,0.4485670419651996,https://leetcode.com/problems/high-access-employees
+MEDIUM,Merge Intervals,65.5,0.485456658694776,https://leetcode.com/problems/merge-intervals
+MEDIUM,Group Anagrams,61.2,0.7004728554993374,https://leetcode.com/problems/group-anagrams
+EASY,Logger Rate Limiter,55.5,0.7628052945168325,https://leetcode.com/problems/logger-rate-limiter
+MEDIUM,Longest String Chain,47.6,0.6157788575508252,https://leetcode.com/problems/longest-string-chain
+HARD,Text Justification,47.6,0.46463350588941404,https://leetcode.com/problems/text-justification
+MEDIUM,Find K Closest Elements,47.6,0.4819280471126741,https://leetcode.com/problems/find-k-closest-elements
+MEDIUM,Word Search,47.6,0.44307294815739445,https://leetcode.com/problems/word-search
+MEDIUM,Design Hit Counter,47.6,0.6894679583484432,https://leetcode.com/problems/design-hit-counter
+MEDIUM,Make Lexicographically Smallest Array by Swapping Elements,47.6,0.39408734430262954,https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements
+HARD,Minimum Time to Visit a Cell In a Grid,47.6,0.5736642235159833,https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid
+HARD,Verbal Arithmetic Puzzle,47.6,0.34701033744706045,https://leetcode.com/problems/verbal-arithmetic-puzzle
+HARD,Number of Possible Sets of Closing Branches,47.6,0.5066888561735903,https://leetcode.com/problems/number-of-possible-sets-of-closing-branches
+HARD,Minimum Cost to Convert String II,47.6,0.2555591966668227,https://leetcode.com/problems/minimum-cost-to-convert-string-ii
+MEDIUM,Smallest Missing Non-negative Integer After Operations,47.6,0.39617395909181174,https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations
+MEDIUM,Minimum Cost to Convert String I,47.6,0.5806834177537878,https://leetcode.com/problems/minimum-cost-to-convert-string-i
+MEDIUM,Maximum Good Subarray Sum,47.6,0.19789768397336072,https://leetcode.com/problems/maximum-good-subarray-sum
+MEDIUM,Jump Game II,47.6,0.4098934519652234,https://leetcode.com/problems/jump-game-ii

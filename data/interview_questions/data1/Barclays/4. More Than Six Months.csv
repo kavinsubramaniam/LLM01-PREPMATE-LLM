@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.546807392489426,https://leetcode.com/problems/two-sum
+HARD,Minimum Number of Refueling Stops,86.6,0.4031414335968696,https://leetcode.com/problems/minimum-number-of-refueling-stops
+HARD,Maximum Employees to Be Invited to a Meeting,86.6,0.3780682422676495,https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting
+EASY,Isomorphic Strings,86.6,0.461925555846209,https://leetcode.com/problems/isomorphic-strings
+MEDIUM,3Sum,86.6,0.3609289626251399,https://leetcode.com/problems/3sum
+MEDIUM,Permutations,75.9,0.7986491303888903,https://leetcode.com/problems/permutations
+EASY,Merge Sorted Array,75.9,0.5190104350713066,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Find K Pairs with Smallest Sums,75.9,0.40327164554456596,https://leetcode.com/problems/find-k-pairs-with-smallest-sums
+MEDIUM,Maximum Subarray,75.9,0.5156267281709298,https://leetcode.com/problems/maximum-subarray
+EASY,Valid Parentheses,75.9,0.41601183264267555,https://leetcode.com/problems/valid-parentheses
+EASY,Climbing Stairs,75.9,0.5329289474549088,https://leetcode.com/problems/climbing-stairs

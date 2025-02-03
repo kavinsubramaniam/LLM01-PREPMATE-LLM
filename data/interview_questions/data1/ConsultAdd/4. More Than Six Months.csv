@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Zigzag Conversion,100.0,0.503285661249927,https://leetcode.com/problems/zigzag-conversion
+MEDIUM,Rotate Image,100.0,0.76799600401216,https://leetcode.com/problems/rotate-image
+MEDIUM,Coin Change,92.3,0.4551661740498656,https://leetcode.com/problems/coin-change
+HARD,Candy,92.3,0.4416799547449773,https://leetcode.com/problems/candy
+MEDIUM,Minimum Deletions to Make Character Frequencies Unique,92.3,0.6130406397556887,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique
+EASY,Transpose Matrix,81.6,0.7328369116259903,https://leetcode.com/problems/transpose-matrix
+MEDIUM,Count and Say,81.6,0.5746424738208825,https://leetcode.com/problems/count-and-say
+MEDIUM,Jump Game II,81.6,0.4098949470538536,https://leetcode.com/problems/jump-game-ii
+MEDIUM,Group Anagrams,81.6,0.7004750190959385,https://leetcode.com/problems/group-anagrams
+MEDIUM,Merge Intervals,81.6,0.485457540766359,https://leetcode.com/problems/merge-intervals

@@ -1,0 +1,63 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Exclusive Time of Functions,100.0,0.6367789089010703,https://leetcode.com/problems/exclusive-time-of-functions
+EASY,Roman to Integer,85.9,0.6373314045544005,https://leetcode.com/problems/roman-to-integer
+EASY,Best Time to Buy and Sell Stock,85.9,0.5457833790973706,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Meeting Rooms II,83.2,0.5181631673232779,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Integer to Roman,83.2,0.6736951941440882,https://leetcode.com/problems/integer-to-roman
+EASY,Two Sum,78.5,0.5468040647814841,https://leetcode.com/problems/two-sum
+EASY,Fizz Buzz,78.5,0.7363859825057569,https://leetcode.com/problems/fizz-buzz
+MEDIUM,The kth Factor of n,74.6,0.6898560593608378,https://leetcode.com/problems/the-kth-factor-of-n
+EASY,Longest Common Prefix,72.3,0.4456151396172746,https://leetcode.com/problems/longest-common-prefix
+EASY,Minimum Absolute Difference,69.8,0.7014719323634702,https://leetcode.com/problems/minimum-absolute-difference
+MEDIUM,Get Equal Substrings Within Budget,69.8,0.5860313249324014,https://leetcode.com/problems/get-equal-substrings-within-budget
+MEDIUM,String Compression,67.0,0.5683430516703462,https://leetcode.com/problems/string-compression
+HARD,Numbers With Repeated Digits,67.0,0.4280273502750618,https://leetcode.com/problems/numbers-with-repeated-digits
+EASY,Valid Parentheses,63.7,0.41600952489383447,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Minimum Suffix Flips,63.7,0.7341240486966989,https://leetcode.com/problems/minimum-suffix-flips
+EASY,Merge Sorted Array,63.7,0.5190068891715635,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Number of Divisible Triplet Sums,59.9,0.6425576519916143,https://leetcode.com/problems/number-of-divisible-triplet-sums
+MEDIUM,Shortest and Lexicographically Smallest Beautiful String,59.9,0.3953860896179865,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string
+MEDIUM,Letter Combinations of a Phone Number,55.1,0.6268934616995981,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Longest Substring Without Repeating Characters,55.1,0.36045589568152325,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Longest Increasing Subsequence,49.0,0.5692998748449849,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Divide Players Into Teams of Equal Skill,49.0,0.689806124106256,https://leetcode.com/problems/divide-players-into-teams-of-equal-skill
+MEDIUM,Find The Original Array of Prefix Xor,49.0,0.8804186331061004,https://leetcode.com/problems/find-the-original-array-of-prefix-xor
+MEDIUM,Subarray Product Less Than K,49.0,0.5221941512687742,https://leetcode.com/problems/subarray-product-less-than-k
+EASY,Intersection of Two Arrays,49.0,0.757841687380219,https://leetcode.com/problems/intersection-of-two-arrays
+HARD,Trapping Rain Water,49.0,0.639106634398673,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Longest Palindromic Substring,49.0,0.3504763981588621,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Longest Consecutive Sequence,49.0,0.4750204573660121,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Product of Array Except Self,49.0,0.6720158756801279,https://leetcode.com/problems/product-of-array-except-self
+EASY,Maximum Units on a Truck,40.5,0.7396779290065301,https://leetcode.com/problems/maximum-units-on-a-truck
+EASY,Remove Duplicates from Sorted Array,40.5,0.5892737818816377,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+HARD,Median of Two Sorted Arrays,40.5,0.42479908529312577,https://leetcode.com/problems/median-of-two-sorted-arrays
+EASY,The Employee That Worked on the Longest Task,40.5,0.5051663389593423,https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task
+MEDIUM,Single-Threaded CPU,40.5,0.45961074485577735,https://leetcode.com/problems/single-threaded-cpu
+EASY,Degree of an Array,40.5,0.570402575469192,https://leetcode.com/problems/degree-of-an-array
+MEDIUM,Find the Duplicate Number,40.5,0.6211181009284465,https://leetcode.com/problems/find-the-duplicate-number
+EASY,Find the Index of the First Occurrence in a String,40.5,0.4419040926242961,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+MEDIUM,Second Highest Salary,40.5,0.42579214877833976,https://leetcode.com/problems/second-highest-salary
+EASY,Can Place Flowers,40.5,0.2882593209962059,https://leetcode.com/problems/can-place-flowers
+MEDIUM,Rotate Array,40.5,0.42181209244990436,https://leetcode.com/problems/rotate-array
+MEDIUM,Minimum Operations to Reduce an Integer to 0,40.5,0.5634320700506226,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0
+MEDIUM,Find Longest Calls,40.5,0.6208316179497736,https://leetcode.com/problems/find-longest-calls
+MEDIUM,Range Product Queries of Powers,40.5,0.4135966841873712,https://leetcode.com/problems/range-product-queries-of-powers
+MEDIUM,Smallest Missing Non-negative Integer After Operations,40.5,0.39617395909181174,https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations
+EASY,Majority Element,40.5,0.654232133999309,https://leetcode.com/problems/majority-element
+EASY,Palindrome Number,40.5,0.5831333299522816,https://leetcode.com/problems/palindrome-number
+MEDIUM,Generate Parentheses,40.5,0.7621018182357718,https://leetcode.com/problems/generate-parentheses
+HARD,Merge k Sorted Lists,40.5,0.55292004507692,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Next Permutation,40.5,0.4196813365721105,https://leetcode.com/problems/next-permutation
+MEDIUM,Rotate Image,40.5,0.7679935544269757,https://leetcode.com/problems/rotate-image
+MEDIUM,Group Anagrams,40.5,0.7004726118398428,https://leetcode.com/problems/group-anagrams
+MEDIUM,Maximum Subarray,40.5,0.5156266082911528,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Maximal Square,40.5,0.4795492325403397,https://leetcode.com/problems/maximal-square
+MEDIUM,Word Break,40.5,0.4769039123534231,https://leetcode.com/problems/word-break
+MEDIUM,Increasing Triplet Subsequence,40.5,0.3921860871157846,https://leetcode.com/problems/increasing-triplet-subsequence
+MEDIUM,Partition Equal Subset Sum,40.5,0.4706594803529976,https://leetcode.com/problems/partition-equal-subset-sum
+MEDIUM,132 Pattern,40.5,0.3379618035152103,https://leetcode.com/problems/132-pattern
+MEDIUM,Add Two Numbers,40.5,0.4504468362591148,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Least Number of Unique Integers after K Removals,40.5,0.6321777543092806,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
+MEDIUM,Task Scheduler,40.5,0.6080405305564733,https://leetcode.com/problems/task-scheduler
+EASY,Prime In Diagonal,40.5,0.35368276487372996,https://leetcode.com/problems/prime-in-diagonal
+MEDIUM,LRU Cache,40.5,0.44062681329691705,https://leetcode.com/problems/lru-cache

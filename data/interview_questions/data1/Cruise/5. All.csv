@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Synonymous Sentences,100.0,0.5628610790151987,https://leetcode.com/problems/synonymous-sentences
+MEDIUM,Unique Paths II,88.5,0.4259035607715876,https://leetcode.com/problems/unique-paths-ii
+HARD,Unique Paths III,88.5,0.8209468841237795,https://leetcode.com/problems/unique-paths-iii
+MEDIUM,LRU Cache,79.4,0.44062707897430947,https://leetcode.com/problems/lru-cache
+MEDIUM,Merge Intervals,73.0,0.4854565781457354,https://leetcode.com/problems/merge-intervals
+MEDIUM,Number of Islands,73.0,0.612097424420314,https://leetcode.com/problems/number-of-islands
+EASY,Two Sum,63.9,0.5468082604968968,https://leetcode.com/problems/two-sum
+MEDIUM,Palindrome Permutation II,63.9,0.4197730580342906,https://leetcode.com/problems/palindrome-permutation-ii
+MEDIUM,Unique Paths,63.9,0.6522743730958873,https://leetcode.com/problems/unique-paths
+HARD,Robot Room Cleaner,63.9,0.7708108669949457,https://leetcode.com/problems/robot-room-cleaner
+HARD,Word Ladder,63.9,0.41384875761318,https://leetcode.com/problems/word-ladder
+MEDIUM,Meeting Rooms II,63.9,0.5181636328206017,https://leetcode.com/problems/meeting-rooms-ii

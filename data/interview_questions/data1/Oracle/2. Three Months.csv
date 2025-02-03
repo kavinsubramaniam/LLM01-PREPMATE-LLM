@@ -1,0 +1,32 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.5468037204676567,https://leetcode.com/problems/two-sum
+MEDIUM,Group Anagrams,100.0,0.7004721245196645,https://leetcode.com/problems/group-anagrams
+MEDIUM,LRU Cache,94.7,0.4406256018009331,https://leetcode.com/problems/lru-cache
+EASY,Reverse Linked List,88.2,0.783541461074451,https://leetcode.com/problems/reverse-linked-list
+EASY,Minimum Absolute Difference,88.2,0.7014709849410495,https://leetcode.com/problems/minimum-absolute-difference
+MEDIUM,3Sum,79.8,0.3609269535598786,https://leetcode.com/problems/3sum
+MEDIUM,Number of Islands,79.8,0.6120952252355103,https://leetcode.com/problems/number-of-islands
+MEDIUM,Top K Frequent Elements,79.8,0.6385663678976886,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Coin Change,79.8,0.45516471373945505,https://leetcode.com/problems/coin-change
+MEDIUM,Simplify Path,79.8,0.45876599199619505,https://leetcode.com/problems/simplify-path
+EASY,Move Zeroes,68.1,0.6240691467565603,https://leetcode.com/problems/move-zeroes
+EASY,Longest Common Prefix,68.1,0.4456146243501844,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Merge Intervals,68.1,0.48545735505966064,https://leetcode.com/problems/merge-intervals
+MEDIUM,Next Permutation,68.1,0.4196805395124062,https://leetcode.com/problems/next-permutation
+EASY,Design HashMap,68.1,0.6563047181191721,https://leetcode.com/problems/design-hashmap
+EASY,Count Vowel Substrings of a String,68.1,0.6943034958369545,https://leetcode.com/problems/count-vowel-substrings-of-a-string
+EASY,Roman to Integer,68.1,0.6373308680503602,https://leetcode.com/problems/roman-to-integer
+MEDIUM,Search a 2D Matrix II,68.1,0.5413994160144676,https://leetcode.com/problems/search-a-2d-matrix-ii
+HARD,Sliding Window Maximum,68.1,0.4711555395186798,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Jump Game,68.1,0.3900465431515571,https://leetcode.com/problems/jump-game
+MEDIUM,Longest Palindromic Substring,68.1,0.3504762173042906,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Binary Tree Right Side View,68.1,0.6492518859641264,https://leetcode.com/problems/binary-tree-right-side-view
+EASY,Valid Palindrome,68.1,0.49718250217718135,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Fraction to Recurring Decimal,68.1,0.25721371292576467,https://leetcode.com/problems/fraction-to-recurring-decimal
+MEDIUM,Maximum Number of Events That Can Be Attended,68.1,0.3266772246321926,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended
+MEDIUM,Product of Array Except Self,68.1,0.6720163790965674,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Meeting Rooms II,68.1,0.5181621604113019,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Kth Largest Element in an Array,68.1,0.6742748539967888,https://leetcode.com/problems/kth-largest-element-in-an-array
+HARD,Median of Two Sorted Arrays,68.1,0.4247985224246625,https://leetcode.com/problems/median-of-two-sorted-arrays
+HARD,Merge k Sorted Lists,68.1,0.5529194523975836,https://leetcode.com/problems/merge-k-sorted-lists
+EASY,Valid Anagram,68.1,0.6589722675491704,https://leetcode.com/problems/valid-anagram

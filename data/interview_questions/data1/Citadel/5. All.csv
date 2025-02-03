@@ -1,0 +1,101 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Longest Non-decreasing Subarray From Two Arrays,100.0,0.2982700803747272,https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays
+HARD,Binary Tree Maximum Path Sum,98.0,0.40747196209440334,https://leetcode.com/problems/binary-tree-maximum-path-sum
+MEDIUM,Delete and Earn,94.9,0.5660273171197632,https://leetcode.com/problems/delete-and-earn
+MEDIUM,Minimum Knight Moves,94.1,0.41064898786603166,https://leetcode.com/problems/minimum-knight-moves
+MEDIUM,Minimum Equal Sum of Two Arrays After Replacing Zeros,80.5,0.36125327232848276,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros
+HARD,LFU Cache,78.9,0.4552123016577045,https://leetcode.com/problems/lfu-cache
+HARD,Minimum Costs Using the Train Line,78.9,0.7838019149844484,https://leetcode.com/problems/minimum-costs-using-the-train-line
+MEDIUM,Maximum Total Damage With Spell Casting,77.1,0.26989201477692526,https://leetcode.com/problems/maximum-total-damage-with-spell-casting
+HARD,Minimum Operations to Make Numbers Non-positive,77.1,0.41536842105263155,https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive
+MEDIUM,Number of Good Binary Strings,77.1,0.5216049382716049,https://leetcode.com/problems/number-of-good-binary-strings
+MEDIUM,Maximum Length of Repeated Subarray,75.2,0.5096443309960739,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+HARD,Best Position for a Service Centre,75.2,0.34595109558590026,https://leetcode.com/problems/best-position-for-a-service-centre
+MEDIUM,First Completely Painted Row or Column,73.1,0.6345424067531928,https://leetcode.com/problems/first-completely-painted-row-or-column
+MEDIUM,LRU Cache,73.1,0.44062614327656857,https://leetcode.com/problems/lru-cache
+MEDIUM,Subarray Sums Divisible by K,70.8,0.555005597869909,https://leetcode.com/problems/subarray-sums-divisible-by-k
+MEDIUM,Longest String Chain,70.8,0.6157788575508252,https://leetcode.com/problems/longest-string-chain
+MEDIUM,Palindromic Substrings,70.8,0.7108309803573668,https://leetcode.com/problems/palindromic-substrings
+HARD,Serialize and Deserialize Binary Tree,68.2,0.5809253744206535,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+MEDIUM,Evaluate Reverse Polish Notation,68.2,0.53625789772942,https://leetcode.com/problems/evaluate-reverse-polish-notation
+MEDIUM,Best Time to Buy and Sell Stock II,65.3,0.6850367319054004,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+EASY,Best Time to Buy and Sell Stock,65.3,0.5457831991330813,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Sliding Window Maximum,65.3,0.4711559986036471,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Permutations,61.9,0.7986464547690246,https://leetcode.com/problems/permutations
+MEDIUM,Find the Duplicate Number,61.9,0.6211173543970145,https://leetcode.com/problems/find-the-duplicate-number
+MEDIUM,Length of Longest Subarray With at Most K Frequency,61.9,0.5586604236653844,https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency
+MEDIUM,Evaluate Division,61.9,0.6258576146396568,https://leetcode.com/problems/evaluate-division
+HARD,Sudoku Solver,57.9,0.6354810963963622,https://leetcode.com/problems/sudoku-solver
+MEDIUM,Validate Binary Search Tree,57.9,0.33809036992758906,https://leetcode.com/problems/validate-binary-search-tree
+HARD,Robot Room Cleaner,57.9,0.7708019333714463,https://leetcode.com/problems/robot-room-cleaner
+MEDIUM,Insert Delete GetRandom O(1),57.9,0.5482797347341293,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Number of Islands,57.9,0.6120951386209973,https://leetcode.com/problems/number-of-islands
+HARD,Find Median from Data Stream,57.9,0.5275409834184339,https://leetcode.com/problems/find-median-from-data-stream
+HARD,Couples Holding Hands,57.9,0.580596524624961,https://leetcode.com/problems/couples-holding-hands
+HARD,Regular Expression Matching,57.9,0.28773997875463087,https://leetcode.com/problems/regular-expression-matching
+MEDIUM,Perfect Squares,53.0,0.5532323343996424,https://leetcode.com/problems/perfect-squares
+HARD,Design Search Autocomplete System,53.0,0.49217555506187677,https://leetcode.com/problems/design-search-autocomplete-system
+MEDIUM,Search Suggestions System,53.0,0.6505752316310943,https://leetcode.com/problems/search-suggestions-system
+HARD,Trapping Rain Water,53.0,0.6391059113109262,https://leetcode.com/problems/trapping-rain-water
+HARD,Parallel Courses III,53.0,0.6698785598482764,https://leetcode.com/problems/parallel-courses-iii
+HARD,Merge k Sorted Lists,53.0,0.5529198813682755,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Group Anagrams,53.0,0.7004724290949617,https://leetcode.com/problems/group-anagrams
+MEDIUM,Rotting Oranges,53.0,0.556592181824963,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Design Circular Queue,53.0,0.5218940172435155,https://leetcode.com/problems/design-circular-queue
+HARD,N-Queens,53.0,0.7111787213582388,https://leetcode.com/problems/n-queens
+HARD,Count Palindromic Subsequences,53.0,0.38297935629722174,https://leetcode.com/problems/count-palindromic-subsequences
+MEDIUM,Design Front Middle Back Queue,46.8,0.5694074654137301,https://leetcode.com/problems/design-front-middle-back-queue
+HARD,Transform to Chessboard,46.8,0.5047005246477936,https://leetcode.com/problems/transform-to-chessboard
+HARD,Design Excel Sum Formula,46.8,0.4396342563814642,https://leetcode.com/problems/design-excel-sum-formula
+HARD,Sort Items by Groups Respecting Dependencies,46.8,0.658121116952277,https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies
+EASY,Fizz Buzz,46.8,0.7363859825057569,https://leetcode.com/problems/fizz-buzz
+MEDIUM,Letter Combinations of a Phone Number,46.8,0.6268930654637848,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Merge Intervals,46.8,0.4854570575328841,https://leetcode.com/problems/merge-intervals
+MEDIUM,Implement Trie (Prefix Tree),46.8,0.6714334268646407,https://leetcode.com/problems/implement-trie-prefix-tree
+HARD,Median of Two Sorted Arrays,46.8,0.42479852966619996,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Maximal Square,46.8,0.4795492325403397,https://leetcode.com/problems/maximal-square
+HARD,Best Time to Buy and Sell Stock IV,46.8,0.45594981822164743,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
+HARD,Longest Increasing Path in a Matrix,46.8,0.5469390364106631,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+MEDIUM,Minimum Height Trees,46.8,0.41919998525771357,https://leetcode.com/problems/minimum-height-trees
+HARD,Alien Dictionary,46.8,0.3631402172134235,https://leetcode.com/problems/alien-dictionary
+MEDIUM,3Sum,46.8,0.36092761999910683,https://leetcode.com/problems/3sum
+MEDIUM,Combination Sum,46.8,0.7356020435348237,https://leetcode.com/problems/combination-sum
+MEDIUM,Count Ways To Build Good Strings,46.8,0.5935538169234882,https://leetcode.com/problems/count-ways-to-build-good-strings
+HARD,Best Time to Buy and Sell Stock III,46.8,0.499369863376348,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+MEDIUM,House Robber,46.8,0.5185571913033634,https://leetcode.com/problems/house-robber
+HARD,Word Ladder II,38.0,0.2710959555601025,https://leetcode.com/problems/word-ladder-ii
+MEDIUM,Count Number of Maximum Bitwise-OR Subsets,38.0,0.8810080424866912,https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets
+MEDIUM,Subarray Sum Equals K,38.0,0.44664871425450964,https://leetcode.com/problems/subarray-sum-equals-k
+EASY,Sqrt(x),38.0,0.39826792750170353,https://leetcode.com/problems/sqrtx
+EASY,Moving Average from Data Stream,38.0,0.7938958273769674,https://leetcode.com/problems/moving-average-from-data-stream
+EASY,Roman to Integer,38.0,0.6373310378992156,https://leetcode.com/problems/roman-to-integer
+HARD,Insert Delete GetRandom O(1) - Duplicates allowed,38.0,0.3571760736755722,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+MEDIUM,Paint House,38.0,0.6327293856938182,https://leetcode.com/problems/paint-house
+MEDIUM,Search a 2D Matrix II,38.0,0.5413996506937255,https://leetcode.com/problems/search-a-2d-matrix-ii
+EASY,Climbing Stairs,38.0,0.5329290395685333,https://leetcode.com/problems/climbing-stairs
+EASY,Valid Parentheses,38.0,0.4160094738732607,https://leetcode.com/problems/valid-parentheses
+HARD,Rank Transform of a Matrix,38.0,0.41148939120787686,https://leetcode.com/problems/rank-transform-of-a-matrix
+MEDIUM,Longest Increasing Subsequence,38.0,0.56930020019099,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Container With Most Water,38.0,0.5685238974622595,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Binary Tree Zigzag Level Order Traversal,38.0,0.6069293621261839,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+MEDIUM,"Pow(x, n)",38.0,0.3620261711377639,https://leetcode.com/problems/powx-n
+MEDIUM,Reorganize String,38.0,0.5556516166477231,https://leetcode.com/problems/reorganize-string
+MEDIUM,Populating Next Right Pointers in Each Node,38.0,0.6450778600711959,https://leetcode.com/problems/populating-next-right-pointers-in-each-node
+MEDIUM,Egg Drop With 2 Eggs and N Floors,38.0,0.7342239481492624,https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors
+MEDIUM,Course Schedule II,38.0,0.5227067222467434,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Knight Probability in Chessboard,38.0,0.5642837026706976,https://leetcode.com/problems/knight-probability-in-chessboard
+MEDIUM,Longest Common Subsequence,38.0,0.5788061768042922,https://leetcode.com/problems/longest-common-subsequence
+MEDIUM,Asteroid Collision,38.0,0.4495645501453042,https://leetcode.com/problems/asteroid-collision
+MEDIUM,Course Schedule,38.0,0.48159958080656395,https://leetcode.com/problems/course-schedule
+HARD,Bus Routes,38.0,0.47123458198906604,https://leetcode.com/problems/bus-routes
+HARD,Word Ladder,38.0,0.41384510780632394,https://leetcode.com/problems/word-ladder
+HARD,Basic Calculator,38.0,0.44515247615745757,https://leetcode.com/problems/basic-calculator
+MEDIUM,Populating Next Right Pointers in Each Node II,38.0,0.5446855881192026,https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii
+HARD,The Skyline Problem,38.0,0.4345004878199867,https://leetcode.com/problems/the-skyline-problem
+MEDIUM,Simplify Path,38.0,0.45876707169197833,https://leetcode.com/problems/simplify-path
+MEDIUM,Word Search,38.0,0.4430727942411496,https://leetcode.com/problems/word-search
+MEDIUM,Unique Paths,38.0,0.652271801567689,https://leetcode.com/problems/unique-paths
+MEDIUM,Spiral Matrix,38.0,0.5243059661689429,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Permutations II,38.0,0.6068443721124228,https://leetcode.com/problems/permutations-ii
+MEDIUM,Next Permutation,38.0,0.41968081049165673,https://leetcode.com/problems/next-permutation
+MEDIUM,Predict the Winner,38.0,0.5548847396327118,https://leetcode.com/problems/predict-the-winner

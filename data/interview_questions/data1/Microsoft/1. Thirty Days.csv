@@ -1,0 +1,57 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.546803571006956,https://leetcode.com/problems/two-sum
+MEDIUM,Count Paths With the Given XOR Value,90.1,0.38708475050086194,https://leetcode.com/problems/count-paths-with-the-given-xor-value
+EASY,Merge Sorted Array,84.6,0.5190057865851562,https://leetcode.com/problems/merge-sorted-array
+EASY,Majority Element,77.5,0.6542324964163643,https://leetcode.com/problems/majority-element
+EASY,Merge Strings Alternately,77.5,0.815200380206268,https://leetcode.com/problems/merge-strings-alternately
+MEDIUM,LRU Cache,73.1,0.44062551993374266,https://leetcode.com/problems/lru-cache
+MEDIUM,3Sum,67.6,0.3609269510437676,https://leetcode.com/problems/3sum
+MEDIUM,Word Subsets,67.6,0.554672008012018,https://leetcode.com/problems/word-subsets
+HARD,Largest Rectangle in Histogram,60.6,0.46245720698812187,https://leetcode.com/problems/largest-rectangle-in-histogram
+EASY,Greatest Common Divisor of Strings,60.6,0.5233014880846681,https://leetcode.com/problems/greatest-common-divisor-of-strings
+MEDIUM,Kth Largest Element in an Array,60.6,0.674274533532071,https://leetcode.com/problems/kth-largest-element-in-an-array
+HARD,Minimum Window Substring,60.6,0.4436694136172452,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Circle and Rectangle Overlapping,60.6,0.4828153264265746,https://leetcode.com/problems/circle-and-rectangle-overlapping
+EASY,Counting Words With a Given Prefix,60.6,0.845699925243753,https://leetcode.com/problems/counting-words-with-a-given-prefix
+EASY,Longest Common Prefix,60.6,0.4456145049726546,https://leetcode.com/problems/longest-common-prefix
+EASY,Remove Element,60.6,0.5909868209276807,https://leetcode.com/problems/remove-element
+EASY,Best Time to Buy and Sell Stock,60.6,0.5457830801826876,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Create Hello World Function,60.6,0.8176070165713258,https://leetcode.com/problems/create-hello-world-function
+EASY,Palindrome Number,60.6,0.5831329574807722,https://leetcode.com/problems/palindrome-number
+MEDIUM,Maximum Subarray,60.6,0.5156264054984199,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Max Consecutive Ones III,50.8,0.6489517085243345,https://leetcode.com/problems/max-consecutive-ones-iii
+HARD,Maximum Profit in Job Scheduling,50.8,0.5431829201383129,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Merge Intervals,50.8,0.4854573354736233,https://leetcode.com/problems/merge-intervals
+MEDIUM,Add Two Numbers,50.8,0.4504459340295783,https://leetcode.com/problems/add-two-numbers
+EASY,Sqrt(x),50.8,0.39826775691229666,https://leetcode.com/problems/sqrtx
+MEDIUM,Invalid Transactions,50.8,0.3116159466809005,https://leetcode.com/problems/invalid-transactions
+MEDIUM,Course Schedule II,50.8,0.5227067604634635,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Coin Change II,50.8,0.6353054253986234,https://leetcode.com/problems/coin-change-ii
+HARD,Count Non-Decreasing Subarrays After K Operations,50.8,0.17657973404803629,https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations
+MEDIUM,Find the Prefix Common Array of Two Arrays,50.8,0.8767959924171592,https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays
+MEDIUM,Minimize XOR,50.8,0.6245835424583542,https://leetcode.com/problems/minimize-xor
+MEDIUM,Top K Frequent Elements,50.8,0.6385663678976886,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Rotate Image,50.8,0.7679922752674766,https://leetcode.com/problems/rotate-image
+MEDIUM,Search a 2D Matrix II,50.8,0.5413989466552313,https://leetcode.com/problems/search-a-2d-matrix-ii
+MEDIUM,Count Good Numbers,50.8,0.47609841915108264,https://leetcode.com/problems/count-good-numbers
+EASY,Customers Who Never Order,50.8,0.7012811241064889,https://leetcode.com/problems/customers-who-never-order
+MEDIUM,4Sum,50.8,0.3730244135233514,https://leetcode.com/problems/4sum
+MEDIUM,Count Vowel Strings in Ranges,50.8,0.6802542664070553,https://leetcode.com/problems/count-vowel-strings-in-ranges
+MEDIUM,Copy List with Random Pointer,50.8,0.5897064261007221,https://leetcode.com/problems/copy-list-with-random-pointer
+EASY,Recyclable and Low Fat Products,50.8,0.8939375959873028,https://leetcode.com/problems/recyclable-and-low-fat-products
+EASY,Climbing Stairs,50.8,0.5329289012194157,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Subarray Sum Equals K,50.8,0.4466492320843327,https://leetcode.com/problems/subarray-sum-equals-k
+EASY,Valid Anagram,50.8,0.6589723020295767,https://leetcode.com/problems/valid-anagram
+HARD,Shortest Distance from All Buildings,50.8,0.43710291957399927,https://leetcode.com/problems/shortest-distance-from-all-buildings
+MEDIUM,Longest Increasing Subsequence,50.8,0.5692997475177531,https://leetcode.com/problems/longest-increasing-subsequence
+EASY,Create a DataFrame from List,50.8,0.8141391762217842,https://leetcode.com/problems/create-a-dataframe-from-list
+MEDIUM,Reorder Routes to Make All Paths Lead to the City Zero,50.8,0.6466394806878761,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero
+HARD,Russian Doll Envelopes,50.8,0.3713901042376768,https://leetcode.com/problems/russian-doll-envelopes
+HARD,N-Queens,50.8,0.7111780211752575,https://leetcode.com/problems/n-queens
+EASY,Search Insert Position,50.8,0.4799929329264712,https://leetcode.com/problems/search-insert-position
+MEDIUM,Subsets,50.8,0.799437286128939,https://leetcode.com/problems/subsets
+MEDIUM,Unique Paths,50.8,0.652271696028724,https://leetcode.com/problems/unique-paths
+EASY,String Matching in an Array,50.8,0.698715902335924,https://leetcode.com/problems/string-matching-in-an-array
+HARD,Merge k Sorted Lists,50.8,0.552919237911929,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Time Based Key-Value Store,50.8,0.4930687274020509,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,Jump Game,50.8,0.3900466635273051,https://leetcode.com/problems/jump-game
